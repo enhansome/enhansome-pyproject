@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:59:38Z",
+            "last_commit": "2026-08-13T21:58:45Z",
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15583
+            "stars": 15584
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-04-30T05:28:50Z",
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4762
+            "stars": 4765
           }
         },
         {
@@ -211,10 +211,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T17:02:11Z",
+            "last_commit": "2026-08-13T14:30:52Z",
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5747
+            "stars": 5751
           }
         },
         {
@@ -239,7 +239,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-08T06:06:35Z",
+            "last_commit": "2026-08-13T16:16:14Z",
             "owner": "pypa",
             "repo": "setuptools-scm",
             "stars": 951
@@ -593,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-12T22:51:46Z",
+            "last_commit": "2026-08-13T12:10:29Z",
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45011
+            "stars": 45013
           }
         },
         {
@@ -607,7 +607,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T18:58:51Z",
+            "last_commit": "2026-08-13T18:21:20Z",
             "owner": "readthedocs",
             "repo": "readthedocs.org",
             "stars": 8373
@@ -621,10 +621,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:58:54Z",
+            "last_commit": "2026-08-13T21:13:15Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6728
+            "stars": 6727
           }
         },
         {
@@ -638,7 +638,7 @@
             "last_commit": "2024-12-24T01:04:30Z",
             "owner": "indygreg",
             "repo": "PyOxidizer",
-            "stars": 6143
+            "stars": 6145
           }
         },
         {
@@ -663,10 +663,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T21:48:55Z",
+            "last_commit": "2026-08-13T21:05:34Z",
             "owner": "spack",
             "repo": "spack",
-            "stars": 5107
+            "stars": 5108
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2026-08-12T14:11:42Z",
             "owner": "sqlalchemy",
             "repo": "alembic",
-            "stars": 4316
+            "stars": 4320
           }
         },
         {
@@ -932,9 +932,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:22:44.901Z",
+    "last_updated": "2026-08-13T23:02:21.691Z",
     "original_repository": "carlosperate/awesome-pyproject",
-    "original_repository_sha": "5d780ffef62a6e332902730f070b9306e79c25b9",
+    "original_repository_sha": "5ad38b750423ab851ace5dc7f1516caa623d665c",
     "enhanced_repository": "enhansome/enhansome-pyproject",
     "enhanced_repository_description": null,
     "title": "Awesome pyproject.toml with stars"
