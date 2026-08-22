@@ -27,7 +27,7 @@
             "archived": false,
             "id": 549162933,
             "language": "Python",
-            "last_commit": "2026-08-21T20:42:43Z",
+            "last_commit": "2026-08-22T21:41:31Z",
             "owner": "pytest-dev",
             "repo": "pytest-env",
             "stars": 233
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T16:05:20Z",
             "owner": "google",
             "repo": "yapf",
-            "stars": 13978
+            "stars": 13979
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 7335450,
             "language": "Python",
-            "last_commit": "2026-07-30T05:52:27Z",
+            "last_commit": "2026-08-22T15:06:55Z",
             "owner": "PyCQA",
             "repo": "autoflake",
-            "stars": 953
+            "stars": 952
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 175129788,
             "language": "Python",
-            "last_commit": "2026-08-21T12:47:46Z",
+            "last_commit": "2026-08-22T01:26:26Z",
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15595
+            "stars": 15596
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-04-30T05:28:50Z",
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4769
+            "stars": 4770
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 531412781,
             "language": "Python",
-            "last_commit": "2026-08-17T21:30:18Z",
+            "last_commit": "2026-08-22T22:32:21Z",
             "owner": "osprey-oss",
             "repo": "deptry",
-            "stars": 1463
+            "stars": 1464
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-17T17:03:20Z",
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5766
+            "stars": 5769
           }
         },
         {
@@ -480,7 +480,7 @@
             "last_commit": "2026-07-12T13:04:14Z",
             "owner": "nat-n",
             "repo": "poethepoet",
-            "stars": 2061
+            "stars": 2062
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-16T22:51:28Z",
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45042
+            "stars": 45041
           }
         },
         {
@@ -648,7 +648,7 @@
             "archived": false,
             "id": 841835,
             "language": "Python",
-            "last_commit": "2026-08-21T17:41:40Z",
+            "last_commit": "2026-08-22T12:54:57Z",
             "owner": "readthedocs",
             "repo": "readthedocs.org",
             "stars": 8375
@@ -666,7 +666,7 @@
             "last_commit": "2026-08-21T17:31:06Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6729
+            "stars": 6730
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2026-08-16T19:25:35Z",
             "owner": "PyCQA",
             "repo": "pycodestyle",
-            "stars": 5161
+            "stars": 5163
           }
         },
         {
@@ -708,7 +708,7 @@
             "archived": false,
             "id": 15730865,
             "language": "Python",
-            "last_commit": "2026-08-21T14:48:36Z",
+            "last_commit": "2026-08-22T09:02:29Z",
             "owner": "spack",
             "repo": "spack",
             "stars": 5109
@@ -741,7 +741,7 @@
             "last_commit": "2026-04-07T15:39:24Z",
             "owner": "pyinvoke",
             "repo": "invoke",
-            "stars": 4768
+            "stars": 4767
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2026-08-14T07:40:29Z",
             "owner": "sqlalchemy",
             "repo": "alembic",
-            "stars": 4333
+            "stars": 4335
           }
         },
         {
@@ -771,7 +771,7 @@
             "last_commit": "2026-08-17T23:41:40Z",
             "owner": "PyCQA",
             "repo": "flake8",
-            "stars": 3815
+            "stars": 3816
           }
         },
         {
@@ -783,7 +783,7 @@
             "archived": false,
             "id": 11892534,
             "language": "Python",
-            "last_commit": "2026-08-18T04:43:59Z",
+            "last_commit": "2026-08-22T19:27:15Z",
             "owner": "prospector-dev",
             "repo": "prospector",
             "stars": 2087
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:40:47.823Z",
+    "last_updated": "2026-08-22T22:37:19.726Z",
     "original_repository": "carlosperate/awesome-pyproject",
     "original_repository_id": 226840558,
     "original_repository_sha": "5ad38b750423ab851ace5dc7f1516caa623d665c",
