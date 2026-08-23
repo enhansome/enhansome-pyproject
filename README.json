@@ -27,7 +27,7 @@
             "archived": false,
             "id": 549162933,
             "language": "Python",
-            "last_commit": "2026-08-22T21:41:31Z",
+            "last_commit": "2026-08-23T18:35:24Z",
             "owner": "pytest-dev",
             "repo": "pytest-env",
             "stars": 233
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 7335450,
             "language": "Python",
-            "last_commit": "2026-08-22T15:06:55Z",
+            "last_commit": "2026-08-23T02:29:56Z",
             "owner": "PyCQA",
             "repo": "autoflake",
             "stars": 952
@@ -147,7 +147,7 @@
             "last_commit": "2026-04-30T05:28:50Z",
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4770
+            "stars": 4773
           }
         },
         {
@@ -174,7 +174,7 @@
             "archived": false,
             "id": 531412781,
             "language": "Python",
-            "last_commit": "2026-08-22T22:32:21Z",
+            "last_commit": "2026-08-23T02:31:19Z",
             "owner": "osprey-oss",
             "repo": "deptry",
             "stars": 1464
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-17T17:03:20Z",
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5769
+            "stars": 5770
           }
         },
         {
@@ -492,10 +492,10 @@
             "archived": false,
             "id": 48647797,
             "language": "Python",
-            "last_commit": "2026-08-19T12:28:29Z",
+            "last_commit": "2026-08-23T22:01:20Z",
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 917
+            "stars": 916
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-16T22:51:28Z",
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45041
+            "stars": 45042
           }
         },
         {
@@ -648,10 +648,10 @@
             "archived": false,
             "id": 841835,
             "language": "Python",
-            "last_commit": "2026-08-22T12:54:57Z",
+            "last_commit": "2026-08-23T20:22:13Z",
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8375
+            "stars": 8376
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-08-21T17:31:06Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6730
+            "stars": 6731
           }
         },
         {
@@ -708,7 +708,7 @@
             "archived": false,
             "id": 15730865,
             "language": "Python",
-            "last_commit": "2026-08-22T09:02:29Z",
+            "last_commit": "2026-08-23T14:24:00Z",
             "owner": "spack",
             "repo": "spack",
             "stars": 5109
@@ -771,7 +771,7 @@
             "last_commit": "2026-08-17T23:41:40Z",
             "owner": "PyCQA",
             "repo": "flake8",
-            "stars": 3816
+            "stars": 3817
           }
         },
         {
@@ -844,7 +844,7 @@
             "archived": false,
             "id": 25031755,
             "language": "Python",
-            "last_commit": "2026-06-16T09:42:10Z",
+            "last_commit": "2026-08-23T17:45:05Z",
             "owner": "ionelmc",
             "repo": "pytest-benchmark",
             "stars": 1447
@@ -979,7 +979,7 @@
             "archived": false,
             "id": 88557002,
             "language": "Python",
-            "last_commit": "2026-08-02T22:28:51Z",
+            "last_commit": "2026-08-23T22:07:38Z",
             "owner": "beeware",
             "repo": "briefcase-template",
             "stars": 49
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:37:19.726Z",
+    "last_updated": "2026-08-23T22:37:12.450Z",
     "original_repository": "carlosperate/awesome-pyproject",
     "original_repository_id": 226840558,
     "original_repository_sha": "5ad38b750423ab851ace5dc7f1516caa623d665c",
