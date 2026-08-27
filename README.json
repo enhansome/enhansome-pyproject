@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T16:05:20Z",
             "owner": "google",
             "repo": "yapf",
-            "stars": 13980
+            "stars": 13981
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 175129788,
             "language": "Python",
-            "last_commit": "2026-08-25T18:22:20Z",
+            "last_commit": "2026-08-27T01:42:47Z",
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15596
+            "stars": 15598
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-04-30T05:28:50Z",
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4777
+            "stars": 4778
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 531412781,
             "language": "Python",
-            "last_commit": "2026-08-25T22:31:55Z",
+            "last_commit": "2026-08-26T15:08:56Z",
             "owner": "osprey-oss",
             "repo": "deptry",
-            "stars": 1464
+            "stars": 1468
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-24T17:02:50Z",
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5773
+            "stars": 5772
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-03-21T20:37:57Z",
             "owner": "David-OConnor",
             "repo": "pyflow",
-            "stars": 1338
+            "stars": 1339
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2024-11-06T22:36:40Z",
             "owner": "pypa",
             "repo": "sampleproject",
-            "stars": 5246
+            "stars": 5245
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-24T17:44:28Z",
             "owner": "wemake-services",
             "repo": "wemake-django-template",
-            "stars": 2267
+            "stars": 2268
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2025-03-20T18:53:38Z",
             "owner": "jacebrowning",
             "repo": "template-python",
-            "stars": 670
+            "stars": 668
           }
         },
         {
@@ -411,7 +411,7 @@
             "archived": false,
             "id": 153237254,
             "language": "Python",
-            "last_commit": "2026-08-24T17:46:01Z",
+            "last_commit": "2026-08-26T06:24:57Z",
             "owner": "wemake-services",
             "repo": "wemake-python-package",
             "stars": 446
@@ -510,7 +510,7 @@
             "last_commit": "2026-02-07T10:07:56Z",
             "owner": "MichaelAquilina",
             "repo": "zsh-autoswitch-virtualenv",
-            "stars": 633
+            "stars": 634
           }
         },
         {
@@ -633,10 +633,10 @@
             "archived": false,
             "id": 5625464,
             "language": "Shell",
-            "last_commit": "2026-08-25T19:43:59Z",
+            "last_commit": "2026-08-26T13:05:19Z",
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45041
+            "stars": 45048
           }
         },
         {
@@ -648,10 +648,10 @@
             "archived": false,
             "id": 841835,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:05Z",
+            "last_commit": "2026-08-26T19:30:59Z",
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8378
+            "stars": 8377
           }
         },
         {
@@ -663,10 +663,10 @@
             "archived": false,
             "id": 92205085,
             "language": "Python",
-            "last_commit": "2026-08-25T09:39:53Z",
+            "last_commit": "2026-08-26T23:04:55Z",
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6731
+            "stars": 6732
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2024-12-24T01:04:30Z",
             "owner": "indygreg",
             "repo": "PyOxidizer",
-            "stars": 6149
+            "stars": 6150
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2026-08-16T19:25:35Z",
             "owner": "PyCQA",
             "repo": "pycodestyle",
-            "stars": 5164
+            "stars": 5165
           }
         },
         {
@@ -708,10 +708,10 @@
             "archived": false,
             "id": 15730865,
             "language": "Python",
-            "last_commit": "2026-08-25T21:55:49Z",
+            "last_commit": "2026-08-27T00:34:24Z",
             "owner": "spack",
             "repo": "spack",
-            "stars": 5114
+            "stars": 5113
           }
         },
         {
@@ -726,7 +726,7 @@
             "last_commit": "2026-03-16T14:08:32Z",
             "owner": "google",
             "repo": "pytype",
-            "stars": 5030
+            "stars": 5031
           }
         },
         {
@@ -741,7 +741,7 @@
             "last_commit": "2026-04-07T15:39:24Z",
             "owner": "pyinvoke",
             "repo": "invoke",
-            "stars": 4768
+            "stars": 4769
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2026-08-14T07:40:29Z",
             "owner": "sqlalchemy",
             "repo": "alembic",
-            "stars": 4338
+            "stars": 4342
           }
         },
         {
@@ -771,7 +771,7 @@
             "last_commit": "2026-08-17T23:41:40Z",
             "owner": "PyCQA",
             "repo": "flake8",
-            "stars": 3817
+            "stars": 3819
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2024-10-20T09:52:54Z",
             "owner": "rubik",
             "repo": "radon",
-            "stars": 2009
+            "stars": 2010
           }
         },
         {
@@ -847,7 +847,7 @@
             "last_commit": "2026-08-23T17:45:05Z",
             "owner": "ionelmc",
             "repo": "pytest-benchmark",
-            "stars": 1447
+            "stars": 1448
           }
         },
         {
@@ -990,7 +990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:44:18.772Z",
+    "last_updated": "2026-08-27T03:17:50.409Z",
     "original_repository": "carlosperate/awesome-pyproject",
     "original_repository_id": 226840558,
     "original_repository_sha": "5ad38b750423ab851ace5dc7f1516caa623d665c",
