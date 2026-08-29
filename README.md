@@ -58,7 +58,7 @@ Do you know of any other project not included here? Please
 ## Code Analysis
 
 * [Pyright](https://github.com/microsoft/pyright/blob/1.1.200/docs/configuration.md#sample-pyprojecttoml-file) ⭐ 15,604 | 🐛 321 | 🌐 Python | 📅 2026-08-28 - Static type checker for Python.
-* [Vulture](https://github.com/jendrikseipp/vulture/blob/master/README.md#configuration) ⭐ 4,780 | 🐛 71 | 🌐 Python | 📅 2026-04-30 - Finds unused code in Python programs.
+* [Vulture](https://github.com/jendrikseipp/vulture/blob/master/README.md#configuration) ⭐ 4,781 | 🐛 71 | 🌐 Python | 📅 2026-04-30 - Finds unused code in Python programs.
 * [Refurb](https://github.com/dosisod/refurb) ⭐ 2,532 | 🐛 33 | 🌐 Python | 📅 2026-04-03 - A tool for refurbishing and modernizing Python codebases.
 * [deptry](https://github.com/fpgmaas/deptry) ⭐ 1,469 | 🐛 69 | 🌐 Python | 📅 2026-08-29 - A command line tool to check for issues with dependencies in a Python project, such as obsolete or missing dependencies.
 * [Unimport](https://github.com/hakancelik96/unimport/blob/master/README.md#configuring-unimport) ⭐ 248 | 🐛 1 | 🌐 Python | 📅 2026-06-02 - Detects unused python libraries.

@@ -221,7 +221,7 @@
             "open_issues": 71,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4780,
+            "stars": 4781,
             "topics": [
               "dead-code-removal",
               "python"
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:43:05.896Z",
+    "last_updated": "2026-08-29T04:33:44.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
