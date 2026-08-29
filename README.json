@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Python Test Runner.",
+            "homepage": null,
             "id": 169174285,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-26T21:35:50Z",
+            "open_issues": 12,
             "owner": "facebookincubator",
             "repo": "ptr",
-            "stars": 280
+            "stars": 280,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -26,12 +31,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pytest plugin to set environment variables in pytest.ini or pyproject.toml file",
+            "homepage": "https://pypi.org/project/pytest-env/",
             "id": 549162933,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T00:25:57Z",
+            "open_issues": 0,
             "owner": "pytest-dev",
             "repo": "pytest-env",
-            "stars": 233
+            "stars": 234,
+            "topics": [
+              "plugin",
+              "pytest",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         }
@@ -48,12 +62,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A formatter for Python files",
+            "homepage": null,
             "id": 32476524,
             "language": "Python",
-            "last_commit": "2026-08-21T16:05:20Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:58:01Z",
+            "open_issues": 417,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13981
+            "stars": 13982,
+            "topics": [
+              "formatter",
+              "google",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -64,12 +87,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool that automatically formats Python code to conform to the PEP 8 style guide.",
+            "homepage": "https://pypi.org/project/autopep8/",
             "id": 1206729,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-20T12:23:40Z",
+            "open_issues": 135,
             "owner": "hhatto",
             "repo": "autopep8",
-            "stars": 4660
+            "stars": 4660,
+            "topics": [
+              "codeformatter",
+              "formatter",
+              "pep8",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -80,12 +113,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Removes unused imports and unused variables as reported by pyflakes",
+            "homepage": "https://pypi.org/project/autoflake/",
             "id": 7335450,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T02:29:56Z",
+            "open_issues": 43,
             "owner": "PyCQA",
             "repo": "autoflake",
-            "stars": 952
+            "stars": 952,
+            "topics": [
+              "formatter",
+              "hacktoberfest",
+              "linter",
+              "pyflakes",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -96,12 +140,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3f7a",
+            "homepage": "https://pypi.org/project/darker/",
             "id": 240935953,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-22T20:11:15Z",
+            "open_issues": 47,
             "owner": "akaihola",
             "repo": "darker",
-            "stars": 685
+            "stars": 685,
+            "topics": [
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -112,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 plugin that integrates isort",
+            "homepage": "https://pypi.org/project/flake8-isort",
             "id": 42370031,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2025-10-25T13:31:13Z",
+            "open_issues": 1,
             "owner": "gforcada",
             "repo": "flake8-isort",
-            "stars": 186
+            "stars": 186,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         }
@@ -134,12 +191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static Type Checker for Python",
+            "homepage": null,
             "id": 175129788,
             "language": "Python",
-            "last_commit": "2026-08-28T00:58:37Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:12:01Z",
+            "open_issues": 321,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15604
+            "stars": 15604,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -150,12 +212,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find dead Python code",
+            "homepage": null,
             "id": 84045805,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-30T05:28:50Z",
+            "open_issues": 71,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4780
+            "stars": 4780,
+            "topics": [
+              "dead-code-removal",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -166,12 +236,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for refurbishing and modernizing Python codebases",
+            "homepage": null,
             "id": 518305561,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-03T21:43:32Z",
+            "open_issues": 33,
             "owner": "dosisod",
             "repo": "refurb",
-            "stars": 2532
+            "stars": 2532,
+            "topics": [
+              "cli",
+              "gplv3",
+              "mypy",
+              "python",
+              "python310",
+              "python311",
+              "python312",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -182,12 +266,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find unused, missing and transitive dependencies in a Python project.",
+            "homepage": "https://deptry.com/",
             "id": 531412781,
             "language": "Python",
-            "last_commit": "2026-08-26T15:08:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:07:22Z",
+            "open_issues": 69,
             "owner": "osprey-oss",
             "repo": "deptry",
-            "stars": 1469
+            "stars": 1469,
+            "topics": [
+              "cicd",
+              "dependencies",
+              "pep621",
+              "poetry",
+              "python",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -198,12 +294,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: The ultimate linter and formatter for removing unused import statements in your code.",
+            "homepage": "https://unimport.hakancelik.dev/",
             "id": 207092013,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-02T15:33:41Z",
+            "open_issues": 1,
             "owner": "hakancelikdev",
             "repo": "unimport",
-            "stars": 248
+            "stars": 248,
+            "topics": [
+              "formatter",
+              "import",
+              "linter",
+              "remove",
+              "unused"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -214,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pytest plugin for running pylint against your codebase",
+            "homepage": null,
             "id": 34330043,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-13T16:47:35Z",
+            "open_issues": 12,
             "owner": "carsongee",
             "repo": "pytest-pylint",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         }
@@ -236,12 +348,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages",
+            "homepage": "https://maturin.rs",
             "id": 141846986,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T17:02:50Z",
+            "open_issues": 53,
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5774
+            "stars": 5775,
+            "topics": [
+              "cffi",
+              "cpython",
+              "cross-compile",
+              "hacktoberfest",
+              "manylinux",
+              "packaging",
+              "pyo3",
+              "pypi",
+              "pypy",
+              "python",
+              "uniffi",
+              "wheels"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -252,12 +382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An installation and dependency system for Python",
+            "homepage": null,
             "id": 196969828,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-03-21T20:37:57Z",
+            "open_issues": 62,
             "owner": "David-OConnor",
             "repo": "pyflow",
-            "stars": 1339
+            "stars": 1339,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -268,12 +403,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the blessed package to manage your versions by scm tags",
+            "homepage": "https://setuptools-scm.readthedocs.io/en/latest/",
             "id": 38386331,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T18:27:47Z",
+            "open_issues": 23,
             "owner": "pypa",
             "repo": "setuptools-scm",
-            "stars": 952
+            "stars": 952,
+            "topics": [
+              "metadata",
+              "packaging",
+              "python",
+              "version-control"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -284,12 +429,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python dependency checker",
+            "homepage": null,
             "id": 574887974,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-01T13:02:04Z",
+            "open_issues": 89,
             "owner": "tweag",
             "repo": "FawltyDeps",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -300,12 +452,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check your wheels have the right contents",
+            "homepage": null,
             "id": 249771207,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-20T12:44:47Z",
+            "open_issues": 32,
             "owner": "jwodder",
             "repo": "check-wheel-contents",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "available-on-pypi",
+              "linter",
+              "packaging",
+              "python",
+              "wheel"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         }
@@ -322,12 +485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sample project that exists for PyPUG's \"Tutorial on Packaging and Distributing Projects\"",
+            "homepage": "https://packaging.python.org/tutorials/packaging-projects/",
             "id": 14899596,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-06T22:36:40Z",
+            "open_issues": 24,
             "owner": "pypa",
             "repo": "sampleproject",
-            "stars": 5244
+            "stars": 5242,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -338,12 +506,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bleeding edge django template focused on code quality and security.",
+            "homepage": "https://wemake-services.github.io/wemake-django-template/",
             "id": 103513062,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T05:45:37Z",
+            "open_issues": 21,
             "owner": "wemake-services",
             "repo": "wemake-django-template",
-            "stars": 2269
+            "stars": 2269,
+            "topics": [
+              "caddy",
+              "cookiecutter",
+              "cookiecutter-template",
+              "django",
+              "docker",
+              "gitlab-ci",
+              "mypy",
+              "pytest",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -354,12 +538,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠 Python project template generator with batteries included",
+            "homepage": "https://pyscaffold.org",
             "id": 18357535,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T17:11:43Z",
+            "open_issues": 37,
             "owner": "pyscaffold",
             "repo": "pyscaffold",
-            "stars": 2262
+            "stars": 2261,
+            "topics": [
+              "distribution",
+              "git",
+              "package",
+              "package-creation",
+              "project-template",
+              "python",
+              "release-automation",
+              "template-project"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -370,12 +568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hypermodern Python Cookiecutter",
+            "homepage": "http://cookiecutter-hypermodern-python.readthedocs.io/",
             "id": 238912856,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-18T08:38:45Z",
+            "open_issues": 105,
             "owner": "cjolowicz",
             "repo": "cookiecutter-hypermodern-python",
-            "stars": 1924
+            "stars": 1924,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -386,12 +589,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enhanced cookiecutter template for Python libraries.",
+            "homepage": null,
             "id": 20260001,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-04-08T21:40:19Z",
+            "open_issues": 11,
             "owner": "ionelmc",
             "repo": "cookiecutter-pylibrary",
-            "stars": 1298
+            "stars": 1298,
+            "topics": [
+              "cookiecutter",
+              "cookiecutter-template",
+              "python",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -402,12 +615,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🚀 Your next Python package needs a bleeding-edge project structure.",
+            "homepage": null,
             "id": 255949356,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-13T16:09:47Z",
+            "open_issues": 73,
             "owner": "TezRomacH",
             "repo": "python-package-template",
-            "stars": 1091
+            "stars": 1091,
+            "topics": [
+              "best-practices",
+              "codestyle",
+              "cookiecutter",
+              "formatters",
+              "makefile",
+              "poetry",
+              "python",
+              "python-packages",
+              "semantic-versions",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -418,12 +647,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My template for new Python libraries.",
+            "homepage": null,
             "id": 13690689,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2025-03-20T18:53:38Z",
+            "open_issues": 7,
             "owner": "jacebrowning",
             "repo": "template-python",
-            "stars": 668
+            "stars": 668,
+            "topics": [
+              "cookiecutter",
+              "hacktoberfest",
+              "makefile",
+              "poetry",
+              "project-creation",
+              "python",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -434,12 +676,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bleeding edge cookiecutter template to create new python packages",
+            "homepage": "https://github.com/wemake-services/wemake-python-package",
             "id": 153237254,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:24:57Z",
+            "open_issues": 4,
             "owner": "wemake-services",
             "repo": "wemake-python-package",
-            "stars": 446
+            "stars": 446,
+            "topics": [
+              "cookiecutter",
+              "cookiecutter-python3",
+              "cookiecutter-template",
+              "hacktoberfest",
+              "project-template",
+              "python",
+              "python3",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -450,12 +706,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern cookiecutter template for Python projects that use Poetry for dependency management",
+            "homepage": "https://fpgmaas.github.io/cookiecutter-poetry/",
             "id": 479288974,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-02T05:28:00Z",
+            "open_issues": 14,
             "owner": "osprey-oss",
             "repo": "cookiecutter-poetry",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "boilerplate",
+              "cookiecutter",
+              "cookiecutter-python",
+              "poetry",
+              "python",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -466,12 +734,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌱 Substrate is a modern Copier template for scaffolding Python packages and apps",
+            "homepage": null,
             "id": 444870763,
             "language": "Jinja",
+            "license": "MIT",
             "last_commit": "2026-08-19T10:03:29Z",
+            "open_issues": 16,
             "owner": "superlinear-ai",
             "repo": "substrate",
-            "stars": 374
+            "stars": 374,
+            "topics": [
+              "copier-template",
+              "devcontainer",
+              "project-template",
+              "python",
+              "ruff",
+              "scaffolding",
+              "template",
+              "ty",
+              "uv"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -482,12 +765,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate beautifully modern (2021+) Python projects with seamless, GitHub-based CI/CD, Docker and Conda support, and out-of-the-box integration with >30 best-practices tools and standards.",
+            "homepage": "https://pypi.org/project/tyrannosaurus/",
             "id": 252586812,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-10T20:04:56Z",
+            "open_issues": 16,
             "owner": "dmyersturnbull",
             "repo": "tyrannosaurus",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "conda-build-recipes",
+              "cookiecutter-python",
+              "poetry",
+              "pyproject-toml",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         }
@@ -504,12 +798,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A task runner that works well with poetry or uv.",
+            "homepage": "https://poethepoet.natn.io/",
             "id": 267704930,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-12T13:04:14Z",
+            "open_issues": 13,
             "owner": "nat-n",
             "repo": "poethepoet",
-            "stars": 2064
+            "stars": 2064,
+            "topics": [
+              "developer-experience",
+              "developer-tools",
+              "development-workflow",
+              "dx",
+              "poetry",
+              "poetry-plugin",
+              "python",
+              "task-runner",
+              "uv"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -520,12 +829,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage the release notes for your project.",
+            "homepage": "https://towncrier.readthedocs.io",
             "id": 48647797,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T22:01:20Z",
+            "open_issues": 70,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 918
+            "stars": 918,
+            "topics": [
+              "newsfile",
+              "project-management",
+              "python",
+              "release-automation",
+              "release-notes"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -536,12 +856,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories",
+            "homepage": null,
             "id": 62009921,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-07T10:07:56Z",
+            "open_issues": 34,
             "owner": "MichaelAquilina",
             "repo": "zsh-autoswitch-virtualenv",
-            "stars": 634
+            "stars": 634,
+            "topics": [
+              "python",
+              "shell-script",
+              "virtualenv",
+              "virtualenvwrapper",
+              "zsh",
+              "zsh-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -552,12 +884,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for managing git hooks",
+            "homepage": "https://greenbone.github.io/autohooks/",
             "id": 169563968,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T04:54:01Z",
+            "open_issues": 1,
             "owner": "greenbone",
             "repo": "autohooks",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "automation",
+              "base",
+              "devops",
+              "formatting",
+              "git",
+              "githooks-plugin",
+              "hooks",
+              "linting",
+              "pre-commit",
+              "pre-commit-hooks",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -568,12 +918,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check python packages from requirement.txt and report issues",
+            "homepage": null,
             "id": 101060105,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-20T06:07:48Z",
+            "open_issues": 27,
             "owner": "dhatim",
             "repo": "python-license-check",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "check",
+              "license",
+              "python",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -584,12 +944,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pipfile (or requirements.txt) to pyproject.toml for Poetry",
+            "homepage": null,
             "id": 165834423,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-13T21:02:28Z",
+            "open_issues": 12,
             "owner": "kk6",
             "repo": "poetrify",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "cli",
+              "packaging",
+              "pipfile",
+              "poetry",
+              "pyproject",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -600,12 +972,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Generate setup.py (setuptools) from pyproject.toml (poetry)",
+            "homepage": null,
             "id": 137230164,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-10-21T12:42:50Z",
+            "open_issues": 0,
             "owner": "orsinium-archive",
             "repo": "poetry-setup",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "cli",
+              "packaging",
+              "pip",
+              "poetry",
+              "pypi",
+              "pyproject",
+              "python",
+              "setuptools"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -616,12 +1002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vendy is a tool for vendoring third-party packages into your project.",
+            "homepage": null,
             "id": 189447624,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-28T01:50:33Z",
+            "open_issues": 1,
             "owner": "di",
             "repo": "vendy",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -632,12 +1023,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Python library for extracting version from poetry pyproject.toml file",
+            "homepage": null,
             "id": 154793660,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-21T07:47:46Z",
+            "open_issues": 0,
             "owner": "rominf",
             "repo": "poetry-version",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -648,12 +1044,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package for storing Django settings in pyproject.toml.",
+            "homepage": null,
             "id": 257069284,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-04-21T13:48:32Z",
+            "open_issues": 0,
             "owner": "Ceterai",
             "repo": "django-pyproject",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "django",
+              "django-pyproject",
+              "django-settings",
+              "poetry",
+              "toml"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         }
@@ -670,12 +1077,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Python version management",
+            "homepage": null,
             "id": 5625464,
             "language": "Shell",
-            "last_commit": "2026-08-26T13:05:19Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T12:36:28Z",
+            "open_issues": 54,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45050
+            "stars": 45056,
+            "topics": [
+              "python",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -686,12 +1101,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code that powers readthedocs.org",
+            "homepage": "https://readthedocs.org/",
             "id": 841835,
             "language": "Python",
-            "last_commit": "2026-08-27T16:23:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T18:28:40Z",
+            "open_issues": 391,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8379
+            "stars": 8379,
+            "topics": [
+              "docs",
+              "mkdocs",
+              "python",
+              "sphinx",
+              "sphinx-doc"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -702,12 +1128,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM",
+            "homepage": "https://aws.amazon.com/serverless/sam/",
             "id": 92205085,
             "language": "Python",
-            "last_commit": "2026-08-27T09:46:35Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:32:26Z",
+            "open_issues": 539,
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6732
+            "stars": 6732,
+            "topics": [
+              "api-gateway",
+              "aws",
+              "docker",
+              "lambda",
+              "python",
+              "sam",
+              "serverless",
+              "serverlessapplicationmodel"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -718,12 +1158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern Python application packaging and distribution tool",
+            "homepage": null,
             "id": 162357299,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2024-12-24T01:04:30Z",
+            "open_issues": 362,
             "owner": "indygreg",
             "repo": "PyOxidizer",
-            "stars": 6150
+            "stars": 6150,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -734,12 +1179,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Python style checker in one Python file",
+            "homepage": "https://pycodestyle.pycqa.org",
             "id": 324077,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T19:25:35Z",
+            "open_issues": 105,
             "owner": "PyCQA",
             "repo": "pycodestyle",
-            "stars": 5166
+            "stars": 5166,
+            "topics": [
+              "flake8-plugin",
+              "linter-flake8",
+              "linter-plugin",
+              "pep8",
+              "python",
+              "style-guide",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -750,12 +1208,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+            "homepage": "https://spack.io",
             "id": 15730865,
             "language": "Python",
-            "last_commit": "2026-08-28T00:00:51Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:58:29Z",
+            "open_issues": 1803,
             "owner": "spack",
             "repo": "spack",
-            "stars": 5113
+            "stars": 5116,
+            "topics": [
+              "build-tools",
+              "hpc",
+              "hpsf",
+              "linux",
+              "macos",
+              "package-manager",
+              "python",
+              "radiuss",
+              "scientific-computing",
+              "spack",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -766,12 +1241,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A static type analyzer for Python code",
+            "homepage": "https://google.github.io/pytype",
             "id": 32483713,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-16T14:08:32Z",
+            "open_issues": 5,
             "owner": "google",
             "repo": "pytype",
-            "stars": 5032
+            "stars": 5032,
+            "topics": [
+              "linter",
+              "python",
+              "static-analysis",
+              "static-code-analysis",
+              "typechecker",
+              "types",
+              "typing"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -782,12 +1270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pythonic task management & command execution.",
+            "homepage": "http://pyinvoke.org",
             "id": 3587206,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-04-07T15:39:24Z",
+            "open_issues": 460,
             "owner": "pyinvoke",
             "repo": "invoke",
-            "stars": 4769
+            "stars": 4769,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -798,12 +1291,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A database migrations tool for SQLAlchemy.",
+            "homepage": null,
             "id": 159267771,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-14T07:40:29Z",
+            "open_issues": 128,
             "owner": "sqlalchemy",
             "repo": "alembic",
-            "stars": 4348
+            "stars": 4353,
+            "topics": [
+              "python",
+              "sql",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -814,12 +1316,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.",
+            "homepage": "https://flake8.pycqa.org",
             "id": 24000265,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T23:41:40Z",
+            "open_issues": 23,
             "owner": "PyCQA",
             "repo": "flake8",
-            "stars": 3822
+            "stars": 3822,
+            "topics": [
+              "complexity-analysis",
+              "flake8",
+              "linter",
+              "linter-flake8",
+              "pep8",
+              "python",
+              "python3",
+              "static-analysis",
+              "static-code-analysis",
+              "style-guide",
+              "styleguide",
+              "stylelint"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -830,12 +1350,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspects Python source files and provides information about type and location of classes, methods etc",
+            "homepage": null,
             "id": 11892534,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-24T17:45:27Z",
+            "open_issues": 32,
             "owner": "prospector-dev",
             "repo": "prospector",
-            "stars": 2087
+            "stars": 2087,
+            "topics": [
+              "hactoberfest",
+              "linter",
+              "linters-config",
+              "statistical-analysis"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -846,12 +1376,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various code metrics for Python code",
+            "homepage": "http://radon.readthedocs.org/",
             "id": 5891360,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-20T09:52:54Z",
+            "open_issues": 52,
             "owner": "rubik",
             "repo": "radon",
-            "stars": 2010
+            "stars": 2011,
+            "topics": [
+              "cli",
+              "code-analysis",
+              "python",
+              "quality-assurance",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -867,24 +1408,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Version-bump your software with a single command",
+                "homepage": "https://pypi.python.org/pypi/bump2version",
                 "id": 86366332,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-20T09:07:16Z",
+                "open_issues": 115,
                 "owner": "c4urself",
                 "repo": "bump2version",
-                "stars": 1115
+                "stars": 1115,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:06:44.719Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Version-bump your software with a single command",
+            "homepage": "https://pypi.python.org/pypi/bumpversion",
             "id": 8822469,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-14T05:03:32Z",
+            "open_issues": 93,
             "owner": "peritus",
             "repo": "bumpversion",
-            "stars": 1519
+            "stars": 1519,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -895,12 +1446,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pytest fixture for benchmarking code",
+            "homepage": null,
             "id": 25031755,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-23T17:45:05Z",
+            "open_issues": 119,
             "owner": "ionelmc",
             "repo": "pytest-benchmark",
-            "stars": 1448
+            "stars": 1448,
+            "topics": [
+              "benchmark",
+              "benchmarking",
+              "performance",
+              "pytest",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -911,12 +1473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code audit tool for python.",
+            "homepage": null,
             "id": 5450742,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-22T05:02:41Z",
+            "open_issues": 74,
             "owner": "klen",
             "repo": "pylama",
-            "stars": 1048
+            "stars": 1048,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -927,12 +1494,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linting for your git commit messages",
+            "homepage": "http://jorisroovers.github.io/gitlint",
             "id": 41824974,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-11T01:52:32Z",
+            "open_issues": 63,
             "owner": "jorisroovers",
             "repo": "gitlint",
-            "stars": 970
+            "stars": 970,
+            "topics": [
+              "git",
+              "git-addons",
+              "gitlint",
+              "lint",
+              "linter",
+              "linting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -943,12 +1523,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create highly reproducible python environments",
+            "homepage": null,
             "id": 257854679,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-20T21:27:05Z",
+            "open_issues": 214,
             "owner": "DavHau",
             "repo": "mach-nix",
-            "stars": 888
+            "stars": 888,
+            "topics": [
+              "mach-nix",
+              "nix",
+              "nix-expression",
+              "nixos",
+              "nixpkgs",
+              "python",
+              "python-deps",
+              "python-environment",
+              "python-packages",
+              "reproducibility"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -959,12 +1555,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The successor to nose, based on unittest2",
+            "homepage": "https://nose2.io",
             "id": 2980827,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T17:03:29Z",
+            "open_issues": 45,
             "owner": "nose-devs",
             "repo": "nose2",
-            "stars": 826
+            "stars": 826,
+            "topics": [
+              "library",
+              "nose",
+              "nose2",
+              "nosetest",
+              "nosetests",
+              "python",
+              "python-2",
+              "python-3",
+              "python-library",
+              "python2",
+              "python3",
+              "testing",
+              "testing-framework",
+              "testing-library",
+              "testing-tool",
+              "testing-tools",
+              "unit-test",
+              "unittest",
+              "unittesting"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -975,12 +1596,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.",
+            "homepage": "https://pypyr.io",
             "id": 86060799,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-19T22:25:16Z",
+            "open_issues": 16,
             "owner": "pypyr",
             "repo": "pypyr",
-            "stars": 645
+            "stars": 645,
+            "topics": [
+              "automation",
+              "cd",
+              "ci",
+              "ci-cd",
+              "continuous-deployment",
+              "continuous-integration",
+              "devops",
+              "pipeline",
+              "pipeline-processor",
+              "pipeline-runner",
+              "pipelines",
+              "pipelines-yaml",
+              "python",
+              "script",
+              "script-loader",
+              "task-manager",
+              "task-runner",
+              "taskrunner",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -991,12 +1637,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.",
+            "homepage": "https://pyup.io",
             "id": 47748084,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-24T12:08:51Z",
+            "open_issues": 76,
             "owner": "pyupio",
             "repo": "pyup",
-            "stars": 470
+            "stars": 470,
+            "topics": [
+              "dependency",
+              "dependency-manager",
+              "security",
+              "security-tools",
+              "security-vulnerability"
+            ]
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -1007,12 +1664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python software releasing made easy and repeatable  ",
+            "homepage": "https://zestreleaser.readthedocs.io",
             "id": 2601923,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-11T09:15:56Z",
+            "open_issues": 26,
             "owner": "zestsoftware",
             "repo": "zest.releaser",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -1023,12 +1685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A parser for Python dependency files",
+            "homepage": null,
             "id": 96868114,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-25T15:40:19Z",
+            "open_issues": 20,
             "owner": "pyupio",
             "repo": "dparse",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         },
@@ -1039,12 +1706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cookiecutter template for a starter Briefcase project.",
+            "homepage": null,
             "id": 88557002,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:01:14Z",
+            "open_issues": 1,
             "owner": "beeware",
             "repo": "briefcase-template",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
         }
@@ -1053,15 +1725,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:06:44.719Z",
+    "last_updated": "2026-08-29T03:43:05.896Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
+      "homepage": null,
       "id": 226840558,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-13T14:15:09Z",
+      "open_issues": 5,
       "owner": "carlosperate",
       "repo": "awesome-pyproject",
-      "stars": 1011
+      "stars": 1011,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "pyproject",
+        "python"
+      ]
     },
     "original_repository_sha": "5ad38b750423ab851ace5dc7f1516caa623d665c",
     "enhanced_repository": "enhansome/enhansome-pyproject",
