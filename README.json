@@ -71,7 +71,7 @@
             "open_issues": 417,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13982,
+            "stars": 13984,
             "topics": [
               "formatter",
               "google",
@@ -196,7 +196,7 @@
             "id": 175129788,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T17:22:36Z",
+            "last_commit": "2026-09-02T21:15:49Z",
             "open_issues": 328,
             "owner": "microsoft",
             "repo": "pyright",
@@ -221,7 +221,7 @@
             "open_issues": 71,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4791,
+            "stars": 4790,
             "topics": [
               "dead-code-removal",
               "python"
@@ -275,7 +275,7 @@
             "open_issues": 65,
             "owner": "osprey-oss",
             "repo": "deptry",
-            "stars": 1470,
+            "stars": 1471,
             "topics": [
               "cicd",
               "dependencies",
@@ -357,7 +357,7 @@
             "open_issues": 55,
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5777,
+            "stars": 5780,
             "topics": [
               "cffi",
               "cpython",
@@ -408,8 +408,8 @@
             "id": 38386331,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-01T22:05:01Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-02T06:04:32Z",
+            "open_issues": 24,
             "owner": "pypa",
             "repo": "setuptools-scm",
             "stars": 952,
@@ -577,7 +577,7 @@
             "open_issues": 105,
             "owner": "cjolowicz",
             "repo": "cookiecutter-hypermodern-python",
-            "stars": 1924,
+            "stars": 1923,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -865,7 +865,7 @@
             "open_issues": 34,
             "owner": "MichaelAquilina",
             "repo": "zsh-autoswitch-virtualenv",
-            "stars": 635,
+            "stars": 636,
             "topics": [
               "python",
               "shell-script",
@@ -1082,11 +1082,11 @@
             "id": 5625464,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-01T15:06:48Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-02T14:56:35Z",
+            "open_issues": 55,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45057,
+            "stars": 45066,
             "topics": [
               "python",
               "shell"
@@ -1106,8 +1106,8 @@
             "id": 841835,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-01T16:22:37Z",
-            "open_issues": 388,
+            "last_commit": "2026-09-02T12:48:09Z",
+            "open_issues": 387,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
             "stars": 8380,
@@ -1133,8 +1133,8 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T00:00:15Z",
-            "open_issues": 528,
+            "last_commit": "2026-09-02T23:17:35Z",
+            "open_issues": 534,
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6733,
@@ -1213,11 +1213,11 @@
             "id": 15730865,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T15:45:26Z",
-            "open_issues": 1806,
+            "last_commit": "2026-09-02T23:06:30Z",
+            "open_issues": 1805,
             "owner": "spack",
             "repo": "spack",
-            "stars": 5118,
+            "stars": 5116,
             "topics": [
               "build-tools",
               "hpc",
@@ -1296,11 +1296,11 @@
             "id": 159267771,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-14T07:40:29Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-02T19:33:21Z",
+            "open_issues": 127,
             "owner": "sqlalchemy",
             "repo": "alembic",
-            "stars": 4360,
+            "stars": 4363,
             "topics": [
               "python",
               "sql",
@@ -1325,7 +1325,7 @@
             "open_issues": 23,
             "owner": "PyCQA",
             "repo": "flake8",
-            "stars": 3824,
+            "stars": 3825,
             "topics": [
               "complexity-analysis",
               "flake8",
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:13:05.198Z",
+    "last_updated": "2026-09-03T00:14:58.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
