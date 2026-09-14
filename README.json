@@ -37,7 +37,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T14:49:10Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "pytest-dev",
             "repo": "pytest-env",
             "stars": 236,
@@ -71,7 +71,7 @@
             "open_issues": 420,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13985,
+            "stars": 13986,
             "topics": [
               "formatter",
               "google",
@@ -173,7 +173,7 @@
             "open_issues": 1,
             "owner": "gforcada",
             "repo": "flake8-isort",
-            "stars": 186,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -197,10 +197,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T22:13:48Z",
-            "open_issues": 332,
+            "open_issues": 334,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15637,
+            "stars": 15640,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -221,7 +221,7 @@
             "open_issues": 71,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4808,
+            "stars": 4809,
             "topics": [
               "dead-code-removal",
               "python"
@@ -275,7 +275,7 @@
             "open_issues": 68,
             "owner": "osprey-oss",
             "repo": "deptry",
-            "stars": 1478,
+            "stars": 1481,
             "topics": [
               "cicd",
               "dependencies",
@@ -357,7 +357,7 @@
             "open_issues": 54,
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5790,
+            "stars": 5795,
             "topics": [
               "cffi",
               "cpython",
@@ -408,8 +408,8 @@
             "id": 38386331,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-12T21:40:33Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-13T14:10:27Z",
+            "open_issues": 21,
             "owner": "pypa",
             "repo": "setuptools-scm",
             "stars": 952,
@@ -494,7 +494,7 @@
             "open_issues": 24,
             "owner": "pypa",
             "repo": "sampleproject",
-            "stars": 5241,
+            "stars": 5240,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -515,7 +515,7 @@
             "open_issues": 21,
             "owner": "wemake-services",
             "repo": "wemake-django-template",
-            "stars": 2269,
+            "stars": 2268,
             "topics": [
               "caddy",
               "cookiecutter",
@@ -577,7 +577,7 @@
             "open_issues": 105,
             "owner": "cjolowicz",
             "repo": "cookiecutter-hypermodern-python",
-            "stars": 1920,
+            "stars": 1921,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -1086,7 +1086,7 @@
             "open_issues": 57,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45100,
+            "stars": 45097,
             "topics": [
               "python",
               "shell"
@@ -1106,8 +1106,8 @@
             "id": 841835,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T02:26:35Z",
-            "open_issues": 392,
+            "last_commit": "2026-09-13T00:13:39Z",
+            "open_issues": 393,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
             "stars": 8384,
@@ -1137,7 +1137,7 @@
             "open_issues": 533,
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6733,
+            "stars": 6732,
             "topics": [
               "api-gateway",
               "aws",
@@ -1217,7 +1217,7 @@
             "open_issues": 1801,
             "owner": "spack",
             "repo": "spack",
-            "stars": 5121,
+            "stars": 5123,
             "topics": [
               "build-tools",
               "hpc",
@@ -1417,7 +1417,7 @@
                 "open_issues": 115,
                 "owner": "c4urself",
                 "repo": "bump2version",
-                "stars": 1115,
+                "stars": 1116,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:06:44.719Z"
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:59:35.498Z",
+    "last_updated": "2026-09-14T00:11:31.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
