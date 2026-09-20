@@ -71,7 +71,7 @@
             "open_issues": 420,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13988,
+            "stars": 13986,
             "topics": [
               "formatter",
               "google",
@@ -119,7 +119,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-23T02:29:56Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "PyCQA",
             "repo": "autoflake",
             "stars": 953,
@@ -197,10 +197,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-18T23:43:29Z",
-            "open_issues": 338,
+            "open_issues": 343,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15648,
+            "stars": 15650,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -271,8 +271,8 @@
             "id": 531412781,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-18T23:23:36Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-19T18:48:45Z",
+            "open_issues": 69,
             "owner": "osprey-oss",
             "repo": "deptry",
             "stars": 1482,
@@ -303,7 +303,7 @@
             "open_issues": 1,
             "owner": "hakancelikdev",
             "repo": "unimport",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "formatter",
               "import",
@@ -354,10 +354,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T13:03:52Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5809,
+            "stars": 5811,
             "topics": [
               "cffi",
               "cpython",
@@ -547,7 +547,7 @@
             "open_issues": 37,
             "owner": "pyscaffold",
             "repo": "pyscaffold",
-            "stars": 2260,
+            "stars": 2259,
             "topics": [
               "distribution",
               "git",
@@ -807,7 +807,7 @@
             "open_issues": 13,
             "owner": "nat-n",
             "repo": "poethepoet",
-            "stars": 2076,
+            "stars": 2077,
             "topics": [
               "developer-experience",
               "developer-tools",
@@ -1086,7 +1086,7 @@
             "open_issues": 55,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45103,
+            "stars": 45099,
             "topics": [
               "python",
               "shell"
@@ -1213,11 +1213,11 @@
             "id": 15730865,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T22:44:14Z",
-            "open_issues": 1815,
+            "last_commit": "2026-09-19T12:24:08Z",
+            "open_issues": 1811,
             "owner": "spack",
             "repo": "spack",
-            "stars": 5125,
+            "stars": 5126,
             "topics": [
               "build-tools",
               "hpc",
@@ -1300,7 +1300,7 @@
             "open_issues": 117,
             "owner": "sqlalchemy",
             "repo": "alembic",
-            "stars": 4402,
+            "stars": 4403,
             "topics": [
               "python",
               "sql",
@@ -1359,7 +1359,7 @@
             "open_issues": 32,
             "owner": "prospector-dev",
             "repo": "prospector",
-            "stars": 2083,
+            "stars": 2082,
             "topics": [
               "hactoberfest",
               "linter",
@@ -1385,7 +1385,7 @@
             "open_issues": 52,
             "owner": "rubik",
             "repo": "radon",
-            "stars": 2027,
+            "stars": 2028,
             "topics": [
               "cli",
               "code-analysis",
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:20:14.527Z",
+    "last_updated": "2026-09-20T00:08:35.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
