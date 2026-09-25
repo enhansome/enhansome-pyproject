@@ -68,7 +68,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:58:01Z",
-            "open_issues": 420,
+            "open_issues": 423,
             "owner": "google",
             "repo": "yapf",
             "stars": 13985,
@@ -149,7 +149,7 @@
             "open_issues": 47,
             "owner": "akaihola",
             "repo": "darker",
-            "stars": 685,
+            "stars": 686,
             "topics": [
               "python",
               "python3"
@@ -196,11 +196,11 @@
             "id": 175129788,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T00:10:24Z",
-            "open_issues": 330,
+            "last_commit": "2026-09-24T23:19:54Z",
+            "open_issues": 329,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15654,
+            "stars": 15656,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -221,7 +221,7 @@
             "open_issues": 71,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4814,
+            "stars": 4815,
             "topics": [
               "dead-code-removal",
               "python"
@@ -275,7 +275,7 @@
             "open_issues": 69,
             "owner": "osprey-oss",
             "repo": "deptry",
-            "stars": 1482,
+            "stars": 1483,
             "topics": [
               "cicd",
               "dependencies",
@@ -299,8 +299,8 @@
             "id": 207092013,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-06-02T15:33:41Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-24T06:25:47Z",
+            "open_issues": 16,
             "owner": "hakancelikdev",
             "repo": "unimport",
             "stars": 248,
@@ -354,7 +354,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-23T15:05:35Z",
-            "open_issues": 55,
+            "open_issues": 58,
             "owner": "PyO3",
             "repo": "maturin",
             "stars": 5815,
@@ -391,7 +391,7 @@
             "open_issues": 62,
             "owner": "David-OConnor",
             "repo": "pyflow",
-            "stars": 1338,
+            "stars": 1339,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -511,7 +511,7 @@
             "id": 103513062,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T16:59:55Z",
+            "last_commit": "2026-09-24T04:54:40Z",
             "open_issues": 21,
             "owner": "wemake-services",
             "repo": "wemake-django-template",
@@ -807,7 +807,7 @@
             "open_issues": 13,
             "owner": "nat-n",
             "repo": "poethepoet",
-            "stars": 2081,
+            "stars": 2082,
             "topics": [
               "developer-experience",
               "developer-tools",
@@ -1082,8 +1082,8 @@
             "id": 5625464,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-23T21:12:25Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-24T23:19:33Z",
+            "open_issues": 58,
             "owner": "pyenv",
             "repo": "pyenv",
             "stars": 45110,
@@ -1106,11 +1106,11 @@
             "id": 841835,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T22:26:24Z",
-            "open_issues": 398,
+            "last_commit": "2026-09-24T18:39:31Z",
+            "open_issues": 399,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8390,
+            "stars": 8391,
             "topics": [
               "docs",
               "mkdocs",
@@ -1133,7 +1133,7 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T00:13:31Z",
+            "last_commit": "2026-09-24T09:53:31Z",
             "open_issues": 539,
             "owner": "aws",
             "repo": "aws-sam-cli",
@@ -1167,7 +1167,7 @@
             "open_issues": 361,
             "owner": "indygreg",
             "repo": "PyOxidizer",
-            "stars": 6157,
+            "stars": 6154,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -1213,7 +1213,7 @@
             "id": 15730865,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T20:01:12Z",
+            "last_commit": "2026-09-24T08:21:23Z",
             "open_issues": 1812,
             "owner": "spack",
             "repo": "spack",
@@ -1359,7 +1359,7 @@
             "open_issues": 32,
             "owner": "prospector-dev",
             "repo": "prospector",
-            "stars": 2082,
+            "stars": 2083,
             "topics": [
               "hactoberfest",
               "linter",
@@ -1455,7 +1455,7 @@
             "open_issues": 122,
             "owner": "ionelmc",
             "repo": "pytest-benchmark",
-            "stars": 1452,
+            "stars": 1453,
             "topics": [
               "benchmark",
               "benchmarking",
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T00:29:41.148Z",
+    "last_updated": "2026-09-25T00:32:55.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
