@@ -36,7 +36,7 @@
             "id": 549162933,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T22:40:43Z",
+            "last_commit": "2026-09-29T23:02:53Z",
             "open_issues": 0,
             "owner": "pytest-dev",
             "repo": "pytest-env",
@@ -68,10 +68,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T16:02:53Z",
-            "open_issues": 425,
+            "open_issues": 426,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13985,
+            "stars": 13987,
             "topics": [
               "formatter",
               "google",
@@ -96,7 +96,7 @@
             "open_issues": 137,
             "owner": "hhatto",
             "repo": "autopep8",
-            "stars": 4660,
+            "stars": 4661,
             "topics": [
               "codeformatter",
               "formatter",
@@ -196,11 +196,11 @@
             "id": 175129788,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T22:57:46Z",
-            "open_issues": 323,
+            "last_commit": "2026-09-29T17:51:22Z",
+            "open_issues": 321,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15664,
+            "stars": 15668,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -221,7 +221,7 @@
             "open_issues": 71,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4827,
+            "stars": 4830,
             "topics": [
               "dead-code-removal",
               "python"
@@ -271,7 +271,7 @@
             "id": 531412781,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-27T13:46:24Z",
+            "last_commit": "2026-09-29T18:01:33Z",
             "open_issues": 69,
             "owner": "osprey-oss",
             "repo": "deptry",
@@ -299,7 +299,7 @@
             "id": 207092013,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T23:52:47Z",
+            "last_commit": "2026-09-29T19:51:50Z",
             "open_issues": 16,
             "owner": "hakancelikdev",
             "repo": "unimport",
@@ -357,7 +357,7 @@
             "open_issues": 59,
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5818,
+            "stars": 5821,
             "topics": [
               "cffi",
               "cpython",
@@ -512,10 +512,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-28T17:15:52Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "wemake-services",
             "repo": "wemake-django-template",
-            "stars": 2274,
+            "stars": 2275,
             "topics": [
               "caddy",
               "cookiecutter",
@@ -577,7 +577,7 @@
             "open_issues": 105,
             "owner": "cjolowicz",
             "repo": "cookiecutter-hypermodern-python",
-            "stars": 1919,
+            "stars": 1920,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -807,7 +807,7 @@
             "open_issues": 15,
             "owner": "nat-n",
             "repo": "poethepoet",
-            "stars": 2083,
+            "stars": 2085,
             "topics": [
               "developer-experience",
               "developer-tools",
@@ -1086,7 +1086,7 @@
             "open_issues": 54,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45116,
+            "stars": 45120,
             "topics": [
               "python",
               "shell"
@@ -1106,11 +1106,11 @@
             "id": 841835,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T20:45:57Z",
-            "open_issues": 400,
+            "last_commit": "2026-09-29T21:23:09Z",
+            "open_issues": 403,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8392,
+            "stars": 8394,
             "topics": [
               "docs",
               "mkdocs",
@@ -1133,11 +1133,11 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T09:58:54Z",
-            "open_issues": 541,
+            "last_commit": "2026-09-29T09:48:59Z",
+            "open_issues": 542,
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6733,
+            "stars": 6735,
             "topics": [
               "api-gateway",
               "aws",
@@ -1167,7 +1167,7 @@
             "open_issues": 361,
             "owner": "indygreg",
             "repo": "PyOxidizer",
-            "stars": 6153,
+            "stars": 6154,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -1184,11 +1184,11 @@
             "id": 324077,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T23:31:06Z",
-            "open_issues": 106,
+            "last_commit": "2026-09-29T16:27:08Z",
+            "open_issues": 105,
             "owner": "PyCQA",
             "repo": "pycodestyle",
-            "stars": 5168,
+            "stars": 5169,
             "topics": [
               "flake8-plugin",
               "linter-flake8",
@@ -1213,8 +1213,8 @@
             "id": 15730865,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T22:45:44Z",
-            "open_issues": 1830,
+            "last_commit": "2026-09-29T19:13:03Z",
+            "open_issues": 1838,
             "owner": "spack",
             "repo": "spack",
             "stars": 5133,
@@ -1250,7 +1250,7 @@
             "open_issues": 5,
             "owner": "google",
             "repo": "pytype",
-            "stars": 5031,
+            "stars": 5032,
             "topics": [
               "linter",
               "python",
@@ -1279,7 +1279,7 @@
             "open_issues": 467,
             "owner": "pyinvoke",
             "repo": "invoke",
-            "stars": 4779,
+            "stars": 4780,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -1300,7 +1300,7 @@
             "open_issues": 117,
             "owner": "sqlalchemy",
             "repo": "alembic",
-            "stars": 4419,
+            "stars": 4422,
             "topics": [
               "python",
               "sql",
@@ -1321,11 +1321,11 @@
             "id": 24000265,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T23:30:56Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-29T16:27:19Z",
+            "open_issues": 23,
             "owner": "PyCQA",
             "repo": "flake8",
-            "stars": 3824,
+            "stars": 3825,
             "topics": [
               "complexity-analysis",
               "flake8",
@@ -1452,10 +1452,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-08-23T17:45:05Z",
-            "open_issues": 122,
+            "open_issues": 121,
             "owner": "ionelmc",
             "repo": "pytest-benchmark",
-            "stars": 1453,
+            "stars": 1454,
             "topics": [
               "benchmark",
               "benchmarking",
@@ -1532,7 +1532,7 @@
             "open_issues": 214,
             "owner": "DavHau",
             "repo": "mach-nix",
-            "stars": 888,
+            "stars": 889,
             "topics": [
               "mach-nix",
               "nix",
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:56:31.523Z",
+    "last_updated": "2026-09-30T01:17:33.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
