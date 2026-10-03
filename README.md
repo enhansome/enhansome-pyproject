@@ -36,7 +36,7 @@ Do you know of any other project not included here? Please
 ## Testing
 
 * [ptr](https://github.com/facebookincubator/ptr#pyprojecttoml) ⚠️ Archived - Python Test Runner (ptr) was born to run tests in an opinionated way, within arbitrary code repositories.
-* [pytest-env](https://github.com/pytest-dev/pytest-env) ⭐ 236 | 🐛 1 | 🌐 Python | 📅 2026-09-29 - A pytest plugin that enables you to set environment variables in a pyproject.toml file.
+* [pytest-env](https://github.com/pytest-dev/pytest-env) ⭐ 236 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - A pytest plugin that enables you to set environment variables in a pyproject.toml file.
 * [Coverage.py](https://coverage.readthedocs.io/en/latest/config.html) - Code coverage measurement for Python.
 * [pytest](https://docs.pytest.org/en/latest/reference/customize.html#pyproject-toml) - A testing framework that makes it easy to write small tests, yet scales to support complex functional testing.
 * [Tox](https://tox.readthedocs.io/en/3.14.2/example/basic.html#pyproject-toml-tox-legacy-ini) - A generic virtualenv manager to run test in different environments.
@@ -57,7 +57,7 @@ Do you know of any other project not included here? Please
 
 ## Code Analysis
 
-* [Pyright](https://github.com/microsoft/pyright/blob/1.1.200/docs/configuration.md#sample-pyprojecttoml-file) ⭐ 15,671 | 🐛 330 | 🌐 Python | 📅 2026-10-02 - Static type checker for Python.
+* [Pyright](https://github.com/microsoft/pyright/blob/1.1.200/docs/configuration.md#sample-pyprojecttoml-file) ⭐ 15,671 | 🐛 331 | 🌐 Python | 📅 2026-10-02 - Static type checker for Python.
 * [Vulture](https://github.com/jendrikseipp/vulture/blob/master/README.md#configuration) ⭐ 4,832 | 🐛 71 | 🌐 Python | 📅 2026-09-25 - Finds unused code in Python programs.
 * [Refurb](https://github.com/dosisod/refurb) ⭐ 2,533 | 🐛 34 | 🌐 Python | 📅 2026-04-03 - A tool for refurbishing and modernizing Python codebases.
 * [deptry](https://github.com/fpgmaas/deptry) ⭐ 1,489 | 🐛 70 | 🌐 Python | 📅 2026-10-01 - A command line tool to check for issues with dependencies in a Python project, such as obsolete or missing dependencies.
@@ -152,12 +152,12 @@ Python Enhancement Proposals (PEPs) still under consideration related to pyproje
 Some project are still considering the adoption of the `pyproject.toml` file.
 These entries link directly to the project discussion.
 
-* [pyenv](https://github.com/pyenv/pyenv/issues/1233) ⭐ 45,120 | 🐛 51 | 🌐 Shell | 📅 2026-10-02 - Simple Python version management.
+* [pyenv](https://github.com/pyenv/pyenv/issues/1233) ⭐ 45,121 | 🐛 52 | 🌐 Shell | 📅 2026-10-03 - Simple Python version management.
 * [readthedocs.org](https://github.com/readthedocs/readthedocs.org/issues/7065) ⭐ 8,393 | 🐛 398 | 🌐 Python | 📅 2026-10-03 - Read the Docs hosts documentation for the open source community.
 * [AWS SAM](https://github.com/awslabs/aws-sam-cli/issues/1366) ⭐ 6,734 | 🐛 545 | 🌐 Python | 📅 2026-10-02 - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM.
 * [PyOxidizer](https://github.com/indygreg/PyOxidizer/issues/93) ⭐ 6,155 | 🐛 361 | 🌐 Rust | 📅 2024-12-24 - A modern Python application packaging and distribution tool.
 * [pycodestyle](https://github.com/PyCQA/pycodestyle/issues/813) ⭐ 5,167 | 🐛 105 | 🌐 Python | 📅 2026-09-29 - A tool to check your Python code against some of the style conventions in PEP 8.
-* [Spack](https://github.com/spack/spack/issues/6629) ⭐ 5,132 | 🐛 1,784 | 🌐 Python | 📅 2026-10-02 - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+* [Spack](https://github.com/spack/spack/issues/6629) ⭐ 5,132 | 🐛 1,785 | 🌐 Python | 📅 2026-10-02 - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 * [pytype](https://github.com/google/pytype/issues/645) ⚠️ Archived - A static type analyzer for Python code.
 * [Invoke](https://github.com/pyinvoke/invoke/issues/537) ⭐ 4,779 | 🐛 467 | 🌐 Python | 📅 2026-04-07 - Library for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
 * [Alembic](https://github.com/sqlalchemy/alembic/issues/708) ⭐ 4,425 | 🐛 118 | 🌐 Python | 📅 2026-09-18 - A database migrations tool for SQLAlchemy.

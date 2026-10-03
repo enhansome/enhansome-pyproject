@@ -36,8 +36,8 @@
             "id": 549162933,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-29T23:02:53Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-03T03:33:04Z",
+            "open_issues": 0,
             "owner": "pytest-dev",
             "repo": "pytest-env",
             "stars": 236,
@@ -197,7 +197,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T23:31:30Z",
-            "open_issues": 330,
+            "open_issues": 331,
             "owner": "microsoft",
             "repo": "pyright",
             "stars": 15671,
@@ -1082,11 +1082,11 @@
             "id": 5625464,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:17:30Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-03T04:39:58Z",
+            "open_issues": 52,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45120,
+            "stars": 45121,
             "topics": [
               "python",
               "shell"
@@ -1214,7 +1214,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T14:16:12Z",
-            "open_issues": 1784,
+            "open_issues": 1785,
             "owner": "spack",
             "repo": "spack",
             "stars": 5132,
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:11:35.517Z",
+    "last_updated": "2026-10-03T05:04:07.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
