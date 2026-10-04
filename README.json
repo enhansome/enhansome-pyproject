@@ -71,7 +71,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13989,
+            "stars": 13990,
             "topics": [
               "formatter",
               "google",
@@ -93,7 +93,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-20T12:23:40Z",
-            "open_issues": 137,
+            "open_issues": 138,
             "owner": "hhatto",
             "repo": "autopep8",
             "stars": 4660,
@@ -197,10 +197,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T23:31:30Z",
-            "open_issues": 331,
+            "open_issues": 336,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15671,
+            "stars": 15672,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -221,7 +221,7 @@
             "open_issues": 71,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4832,
+            "stars": 4831,
             "topics": [
               "dead-code-removal",
               "python"
@@ -271,11 +271,11 @@
             "id": 531412781,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:46:53Z",
+            "last_commit": "2026-10-03T20:30:40Z",
             "open_issues": 70,
             "owner": "osprey-oss",
             "repo": "deptry",
-            "stars": 1489,
+            "stars": 1488,
             "topics": [
               "cicd",
               "dependencies",
@@ -357,7 +357,7 @@
             "open_issues": 63,
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5824,
+            "stars": 5826,
             "topics": [
               "cffi",
               "cpython",
@@ -408,8 +408,8 @@
             "id": 38386331,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-01T17:46:16Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-03T21:02:47Z",
+            "open_issues": 23,
             "owner": "pypa",
             "repo": "setuptools-scm",
             "stars": 953,
@@ -494,7 +494,7 @@
             "open_issues": 24,
             "owner": "pypa",
             "repo": "sampleproject",
-            "stars": 5240,
+            "stars": 5241,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -1082,7 +1082,7 @@
             "id": 5625464,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:39:58Z",
+            "last_commit": "2026-10-03T15:51:15Z",
             "open_issues": 52,
             "owner": "pyenv",
             "repo": "pyenv",
@@ -1110,7 +1110,7 @@
             "open_issues": 398,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8393,
+            "stars": 8394,
             "topics": [
               "docs",
               "mkdocs",
@@ -1214,10 +1214,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T14:16:12Z",
-            "open_issues": 1785,
+            "open_issues": 1773,
             "owner": "spack",
             "repo": "spack",
-            "stars": 5132,
+            "stars": 5133,
             "topics": [
               "build-tools",
               "hpc",
@@ -1297,10 +1297,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-18T17:57:22Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "sqlalchemy",
             "repo": "alembic",
-            "stars": 4425,
+            "stars": 4427,
             "topics": [
               "python",
               "sql",
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:07.921Z",
+    "last_updated": "2026-10-04T00:36:49.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
