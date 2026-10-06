@@ -57,7 +57,7 @@ Do you know of any other project not included here? Please
 
 ## Code Analysis
 
-* [Pyright](https://github.com/microsoft/pyright/blob/1.1.200/docs/configuration.md#sample-pyprojecttoml-file) ⭐ 15,680 | 🐛 339 | 🌐 Python | 📅 2026-10-05 - Static type checker for Python.
+* [Pyright](https://github.com/microsoft/pyright/blob/1.1.200/docs/configuration.md#sample-pyprojecttoml-file) ⭐ 15,679 | 🐛 340 | 🌐 Python | 📅 2026-10-05 - Static type checker for Python.
 * [Vulture](https://github.com/jendrikseipp/vulture/blob/master/README.md#configuration) ⭐ 4,833 | 🐛 73 | 🌐 Python | 📅 2026-09-25 - Finds unused code in Python programs.
 * [Refurb](https://github.com/dosisod/refurb) ⭐ 2,533 | 🐛 43 | 🌐 Python | 📅 2026-10-04 - A tool for refurbishing and modernizing Python codebases.
 * [deptry](https://github.com/fpgmaas/deptry) ⭐ 1,490 | 🐛 70 | 🌐 Python | 📅 2026-10-05 - A command line tool to check for issues with dependencies in a Python project, such as obsolete or missing dependencies.
@@ -113,7 +113,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 ## Other Tools
 
 * [Poe the Poet](https://github.com/nat-n/poethepoet#define-tasks-in-your-pyprojecttoml) ⭐ 2,088 | 🐛 15 | 🌐 Python | 📅 2026-10-05 - A task runner that works well with Poetry.
-* [towncrier](https://github.com/twisted/towncrier) ⭐ 923 | 🐛 71 | 🌐 Python | 📅 2026-10-05 - A utility to produce useful, summarised news files for your project.
+* [towncrier](https://github.com/twisted/towncrier) ⭐ 923 | 🐛 70 | 🌐 Python | 📅 2026-10-05 - A utility to produce useful, summarised news files for your project.
 * [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv/pull/117) ⭐ 636 | 🐛 34 | 🌐 Shell | 📅 2026-02-07 - ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories.
 * [Autohooks](https://github.com/greenbone/autohooks/blob/master/README.md#1-choosing-an-autohooks-mode) ⭐ 205 | 🐛 1 | 🌐 Python | 📅 2026-10-05 - Library for managing git hooks.
 * [Python License Checker](https://github.com/dhatim/python-license-check/pull/32) ⭐ 184 | 🐛 29 | 🌐 Python | 📅 2026-09-18 - Check python packages from requirement.txt/pyproject.toml and report issues.
@@ -152,17 +152,17 @@ Python Enhancement Proposals (PEPs) still under consideration related to pyproje
 Some project are still considering the adoption of the `pyproject.toml` file.
 These entries link directly to the project discussion.
 
-* [pyenv](https://github.com/pyenv/pyenv/issues/1233) ⭐ 45,125 | 🐛 52 | 🌐 Shell | 📅 2026-10-03 - Simple Python version management.
-* [readthedocs.org](https://github.com/readthedocs/readthedocs.org/issues/7065) ⭐ 8,394 | 🐛 391 | 🌐 Python | 📅 2026-10-05 - Read the Docs hosts documentation for the open source community.
-* [AWS SAM](https://github.com/awslabs/aws-sam-cli/issues/1366) ⭐ 6,736 | 🐛 545 | 🌐 Python | 📅 2026-10-05 - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM.
+* [pyenv](https://github.com/pyenv/pyenv/issues/1233) ⭐ 45,126 | 🐛 52 | 🌐 Shell | 📅 2026-10-03 - Simple Python version management.
+* [readthedocs.org](https://github.com/readthedocs/readthedocs.org/issues/7065) ⭐ 8,394 | 🐛 390 | 🌐 Python | 📅 2026-10-06 - Read the Docs hosts documentation for the open source community.
+* [AWS SAM](https://github.com/awslabs/aws-sam-cli/issues/1366) ⭐ 6,736 | 🐛 545 | 🌐 Python | 📅 2026-10-06 - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM.
 * [PyOxidizer](https://github.com/indygreg/PyOxidizer/issues/93) ⭐ 6,155 | 🐛 361 | 🌐 Rust | 📅 2024-12-24 - A modern Python application packaging and distribution tool.
-* [pycodestyle](https://github.com/PyCQA/pycodestyle/issues/813) ⭐ 5,167 | 🐛 105 | 🌐 Python | 📅 2026-09-29 - A tool to check your Python code against some of the style conventions in PEP 8.
-* [Spack](https://github.com/spack/spack/issues/6629) ⭐ 5,134 | 🐛 1,738 | 🌐 Python | 📅 2026-10-05 - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+* [pycodestyle](https://github.com/PyCQA/pycodestyle/issues/813) ⭐ 5,166 | 🐛 105 | 🌐 Python | 📅 2026-09-29 - A tool to check your Python code against some of the style conventions in PEP 8.
+* [Spack](https://github.com/spack/spack/issues/6629) ⭐ 5,134 | 🐛 1,736 | 🌐 Python | 📅 2026-10-05 - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 * [pytype](https://github.com/google/pytype/issues/645) ⚠️ Archived - A static type analyzer for Python code.
 * [Invoke](https://github.com/pyinvoke/invoke/issues/537) ⭐ 4,779 | 🐛 467 | 🌐 Python | 📅 2026-04-07 - Library for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
 * [Alembic](https://github.com/sqlalchemy/alembic/issues/708) ⭐ 4,431 | 🐛 120 | 🌐 Python | 📅 2026-10-05 - A database migrations tool for SQLAlchemy.
-* [flake8](https://github.com/PyCQA/flake8/issues/234) ⭐ 3,825 | 🐛 25 | 🌐 Python | 📅 2026-10-06 - A python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
-* [prospector](https://github.com/PyCQA/prospector/issues/376) ⭐ 2,083 | 🐛 32 | 🌐 Python | 📅 2026-10-05 - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
+* [flake8](https://github.com/PyCQA/flake8/issues/234) ⭐ 3,826 | 🐛 25 | 🌐 Python | 📅 2026-10-06 - A python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
+* [prospector](https://github.com/PyCQA/prospector/issues/376) ⭐ 2,083 | 🐛 32 | 🌐 Python | 📅 2026-10-06 - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
 * [Radon](https://github.com/rubik/radon/issues/220) ⭐ 2,034 | 🐛 54 | 🌐 Python | 📅 2024-10-20 - A Python tool that computes various metrics from the source code.
 * [bumpversion](https://github.com/peritus/bumpversion/issues/192) ⭐ 1,520 | 🐛 93 | 🌐 Python | 📅 2023-07-14 - Version-bump your software with a single command.
   * [bump2version](https://github.com/c4urself/bump2version/issues/42) ⭐ 1,118 | 🐛 115 | 🌐 Python | 📅 2025-02-20 - An interim fork with the intent to merge back to the original project.
