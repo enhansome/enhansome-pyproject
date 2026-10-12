@@ -197,10 +197,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-09T23:19:34Z",
-            "open_issues": 342,
+            "open_issues": 345,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15680,
+            "stars": 15679,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -221,7 +221,7 @@
             "open_issues": 74,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4839,
+            "stars": 4840,
             "topics": [
               "dead-code-removal",
               "python"
@@ -271,7 +271,7 @@
             "id": 531412781,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T16:52:57Z",
+            "last_commit": "2026-10-11T21:31:07Z",
             "open_issues": 72,
             "owner": "osprey-oss",
             "repo": "deptry",
@@ -354,10 +354,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T11:27:48Z",
-            "open_issues": 55,
+            "open_issues": 57,
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5832,
+            "stars": 5834,
             "topics": [
               "cffi",
               "cpython",
@@ -457,8 +457,8 @@
             "id": 249771207,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-10T22:29:58Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-11T14:57:53Z",
+            "open_issues": 33,
             "owner": "jwodder",
             "repo": "check-wheel-contents",
             "stars": 169,
@@ -803,8 +803,8 @@
             "id": 267704930,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-08T19:46:56Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-11T22:42:42Z",
+            "open_issues": 18,
             "owner": "nat-n",
             "repo": "poethepoet",
             "stars": 2089,
@@ -838,7 +838,7 @@
             "open_issues": 71,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 923,
+            "stars": 924,
             "topics": [
               "newsfile",
               "project-management",
@@ -1086,7 +1086,7 @@
             "open_issues": 52,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45129,
+            "stars": 45134,
             "topics": [
               "python",
               "shell"
@@ -1110,7 +1110,7 @@
             "open_issues": 401,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8395,
+            "stars": 8396,
             "topics": [
               "docs",
               "mkdocs",
@@ -1137,7 +1137,7 @@
             "open_issues": 537,
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6736,
+            "stars": 6737,
             "topics": [
               "api-gateway",
               "aws",
@@ -1214,7 +1214,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T15:57:05Z",
-            "open_issues": 1699,
+            "open_issues": 1696,
             "owner": "spack",
             "repo": "spack",
             "stars": 5138,
@@ -1276,7 +1276,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-04-07T15:39:24Z",
-            "open_issues": 467,
+            "open_issues": 468,
             "owner": "pyinvoke",
             "repo": "invoke",
             "stars": 4778,
@@ -1300,7 +1300,7 @@
             "open_issues": 120,
             "owner": "sqlalchemy",
             "repo": "alembic",
-            "stars": 4444,
+            "stars": 4445,
             "topics": [
               "python",
               "sql",
@@ -1385,7 +1385,7 @@
             "open_issues": 54,
             "owner": "rubik",
             "repo": "radon",
-            "stars": 2035,
+            "stars": 2036,
             "topics": [
               "cli",
               "code-analysis",
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:00:16.105Z",
+    "last_updated": "2026-10-12T01:19:19.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
@@ -1737,7 +1737,7 @@
       "open_issues": 6,
       "owner": "carlosperate",
       "repo": "awesome-pyproject",
-      "stars": 1015,
+      "stars": 1014,
       "topics": [
         "awesome",
         "awesome-list",
