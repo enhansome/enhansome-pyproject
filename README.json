@@ -36,8 +36,8 @@
             "id": 549162933,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T19:17:07Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-18T20:26:37Z",
+            "open_issues": 0,
             "owner": "pytest-dev",
             "repo": "pytest-env",
             "stars": 239,
@@ -71,7 +71,7 @@
             "open_issues": 428,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13992,
+            "stars": 13991,
             "topics": [
               "formatter",
               "google",
@@ -93,7 +93,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-20T12:23:40Z",
-            "open_issues": 142,
+            "open_issues": 143,
             "owner": "hhatto",
             "repo": "autopep8",
             "stars": 4657,
@@ -200,7 +200,7 @@
             "open_issues": 354,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15685,
+            "stars": 15686,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -221,7 +221,7 @@
             "open_issues": 76,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4852,
+            "stars": 4853,
             "topics": [
               "dead-code-removal",
               "python"
@@ -242,7 +242,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T16:41:13Z",
-            "open_issues": 46,
+            "open_issues": 48,
             "owner": "dosisod",
             "repo": "refurb",
             "stars": 2534,
@@ -271,11 +271,11 @@
             "id": 531412781,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T21:11:44Z",
+            "last_commit": "2026-10-18T17:21:21Z",
             "open_issues": 79,
             "owner": "osprey-oss",
             "repo": "deptry",
-            "stars": 1494,
+            "stars": 1495,
             "topics": [
               "cicd",
               "dependencies",
@@ -353,11 +353,11 @@
             "id": 141846986,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T07:58:36Z",
-            "open_issues": 57,
+            "last_commit": "2026-10-18T14:00:26Z",
+            "open_issues": 60,
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5837,
+            "stars": 5839,
             "topics": [
               "cffi",
               "cpython",
@@ -685,7 +685,7 @@
             "open_issues": 5,
             "owner": "wemake-services",
             "repo": "wemake-python-package",
-            "stars": 450,
+            "stars": 451,
             "topics": [
               "cookiecutter",
               "cookiecutter-python3",
@@ -803,8 +803,8 @@
             "id": 267704930,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T21:06:26Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-18T23:07:43Z",
+            "open_issues": 16,
             "owner": "nat-n",
             "repo": "poethepoet",
             "stars": 2089,
@@ -838,7 +838,7 @@
             "open_issues": 73,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 925,
+            "stars": 926,
             "topics": [
               "newsfile",
               "project-management",
@@ -1083,10 +1083,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-16T08:12:17Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45153,
+            "stars": 45159,
             "topics": [
               "python",
               "shell"
@@ -1106,8 +1106,8 @@
             "id": 841835,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-16T19:30:21Z",
-            "open_issues": 401,
+            "last_commit": "2026-10-18T20:45:28Z",
+            "open_issues": 398,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
             "stars": 8392,
@@ -1167,7 +1167,7 @@
             "open_issues": 361,
             "owner": "indygreg",
             "repo": "PyOxidizer",
-            "stars": 6157,
+            "stars": 6158,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -1214,7 +1214,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-17T08:05:43Z",
-            "open_issues": 1646,
+            "open_issues": 1647,
             "owner": "spack",
             "repo": "spack",
             "stars": 5143,
@@ -1325,7 +1325,7 @@
             "open_issues": 24,
             "owner": "PyCQA",
             "repo": "flake8",
-            "stars": 3829,
+            "stars": 3828,
             "topics": [
               "complexity-analysis",
               "flake8",
@@ -1385,7 +1385,7 @@
             "open_issues": 53,
             "owner": "rubik",
             "repo": "radon",
-            "stars": 2036,
+            "stars": 2037,
             "topics": [
               "cli",
               "code-analysis",
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T00:02:21.960Z",
+    "last_updated": "2026-10-19T00:12:18.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
