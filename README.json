@@ -197,10 +197,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T22:36:02Z",
-            "open_issues": 368,
+            "open_issues": 370,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15701,
+            "stars": 15700,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -221,7 +221,7 @@
             "open_issues": 76,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4859,
+            "stars": 4862,
             "topics": [
               "dead-code-removal",
               "python"
@@ -271,11 +271,11 @@
             "id": 531412781,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T20:39:11Z",
+            "last_commit": "2026-10-24T21:54:09Z",
             "open_issues": 79,
             "owner": "osprey-oss",
             "repo": "deptry",
-            "stars": 1496,
+            "stars": 1497,
             "topics": [
               "cicd",
               "dependencies",
@@ -408,8 +408,8 @@
             "id": 38386331,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-17T06:08:26Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-24T21:46:56Z",
+            "open_issues": 24,
             "owner": "pypa",
             "repo": "setuptools-scm",
             "stars": 953,
@@ -1086,7 +1086,7 @@
             "open_issues": 49,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45164,
+            "stars": 45165,
             "topics": [
               "python",
               "shell"
@@ -1106,11 +1106,11 @@
             "id": 841835,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T19:47:44Z",
-            "open_issues": 384,
+            "last_commit": "2026-10-25T00:13:02Z",
+            "open_issues": 389,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8398,
+            "stars": 8400,
             "topics": [
               "docs",
               "mkdocs",
@@ -1250,7 +1250,7 @@
             "open_issues": 5,
             "owner": "google",
             "repo": "pytype",
-            "stars": 5036,
+            "stars": 5035,
             "topics": [
               "linter",
               "python",
@@ -1276,7 +1276,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-04-07T15:39:24Z",
-            "open_issues": 468,
+            "open_issues": 469,
             "owner": "pyinvoke",
             "repo": "invoke",
             "stars": 4780,
@@ -1300,7 +1300,7 @@
             "open_issues": 117,
             "owner": "sqlalchemy",
             "repo": "alembic",
-            "stars": 4456,
+            "stars": 4455,
             "topics": [
               "python",
               "sql",
@@ -1325,7 +1325,7 @@
             "open_issues": 24,
             "owner": "PyCQA",
             "repo": "flake8",
-            "stars": 3829,
+            "stars": 3830,
             "topics": [
               "complexity-analysis",
               "flake8",
@@ -1503,7 +1503,7 @@
             "open_issues": 63,
             "owner": "jorisroovers",
             "repo": "gitlint",
-            "stars": 974,
+            "stars": 973,
             "topics": [
               "git",
               "git-addons",
@@ -1532,7 +1532,7 @@
             "open_issues": 214,
             "owner": "DavHau",
             "repo": "mach-nix",
-            "stars": 888,
+            "stars": 887,
             "topics": [
               "mach-nix",
               "nix",
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:40:50.318Z",
+    "last_updated": "2026-10-25T00:19:56.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
