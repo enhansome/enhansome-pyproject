@@ -37,7 +37,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-20T15:40:27Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "pytest-dev",
             "repo": "pytest-env",
             "stars": 239,
@@ -71,7 +71,7 @@
             "open_issues": 430,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13989,
+            "stars": 13990,
             "topics": [
               "formatter",
               "google",
@@ -197,10 +197,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T22:36:02Z",
-            "open_issues": 370,
+            "open_issues": 379,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15700,
+            "stars": 15702,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -221,7 +221,7 @@
             "open_issues": 76,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4862,
+            "stars": 4863,
             "topics": [
               "dead-code-removal",
               "python"
@@ -271,7 +271,7 @@
             "id": 531412781,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T21:54:09Z",
+            "last_commit": "2026-10-25T17:38:00Z",
             "open_issues": 79,
             "owner": "osprey-oss",
             "repo": "deptry",
@@ -303,7 +303,7 @@
             "open_issues": 0,
             "owner": "hakancelikdev",
             "repo": "unimport",
-            "stars": 248,
+            "stars": 247,
             "topics": [
               "formatter",
               "import",
@@ -357,7 +357,7 @@
             "open_issues": 49,
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5845,
+            "stars": 5847,
             "topics": [
               "cffi",
               "cpython",
@@ -494,7 +494,7 @@
             "open_issues": 24,
             "owner": "pypa",
             "repo": "sampleproject",
-            "stars": 5241,
+            "stars": 5242,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -838,7 +838,7 @@
             "open_issues": 70,
             "owner": "twisted",
             "repo": "towncrier",
-            "stars": 927,
+            "stars": 926,
             "topics": [
               "newsfile",
               "project-management",
@@ -1082,11 +1082,11 @@
             "id": 5625464,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-23T08:19:20Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-25T20:33:26Z",
+            "open_issues": 50,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45165,
+            "stars": 45169,
             "topics": [
               "python",
               "shell"
@@ -1134,7 +1134,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T22:05:10Z",
-            "open_issues": 553,
+            "open_issues": 554,
             "owner": "aws",
             "repo": "aws-sam-cli",
             "stars": 6738,
@@ -1167,7 +1167,7 @@
             "open_issues": 361,
             "owner": "indygreg",
             "repo": "PyOxidizer",
-            "stars": 6156,
+            "stars": 6157,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -1217,7 +1217,7 @@
             "open_issues": 1591,
             "owner": "spack",
             "repo": "spack",
-            "stars": 5149,
+            "stars": 5152,
             "topics": [
               "build-tools",
               "hpc",
@@ -1300,7 +1300,7 @@
             "open_issues": 117,
             "owner": "sqlalchemy",
             "repo": "alembic",
-            "stars": 4455,
+            "stars": 4456,
             "topics": [
               "python",
               "sql",
@@ -1725,7 +1725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:19:56.097Z",
+    "last_updated": "2026-10-26T00:22:30.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
