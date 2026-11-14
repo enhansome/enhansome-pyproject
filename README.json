@@ -36,8 +36,8 @@
             "id": 549162933,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T00:50:50Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-13T23:02:06Z",
+            "open_issues": 0,
             "owner": "pytest-dev",
             "repo": "pytest-env",
             "stars": 236,
@@ -72,7 +72,7 @@
             "open_issues": 440,
             "owner": "google",
             "repo": "yapf",
-            "stars": 13984,
+            "stars": 13985,
             "topics": [
               "formatter",
               "google",
@@ -174,7 +174,7 @@
             "open_issues": 1,
             "owner": "gforcada",
             "repo": "flake8-isort",
-            "stars": 186,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -197,11 +197,11 @@
             "id": 175129788,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T23:42:54Z",
-            "open_issues": 410,
+            "last_commit": "2026-11-13T21:56:39Z",
+            "open_issues": 413,
             "owner": "microsoft",
             "repo": "pyright",
-            "stars": 15744,
+            "stars": 15747,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -222,7 +222,7 @@
             "open_issues": 79,
             "owner": "jendrikseipp",
             "repo": "vulture",
-            "stars": 4885,
+            "stars": 4886,
             "topics": [
               "dead-code-removal",
               "python"
@@ -246,7 +246,7 @@
             "open_issues": 51,
             "owner": "dosisod",
             "repo": "refurb",
-            "stars": 2534,
+            "stars": 2533,
             "topics": [
               "cli",
               "gplv3",
@@ -276,7 +276,7 @@
             "open_issues": 81,
             "owner": "osprey-oss",
             "repo": "deptry",
-            "stars": 1502,
+            "stars": 1503,
             "topics": [
               "cicd",
               "dependencies",
@@ -358,7 +358,7 @@
             "open_issues": 56,
             "owner": "PyO3",
             "repo": "maturin",
-            "stars": 5889,
+            "stars": 5875,
             "topics": [
               "cffi",
               "cpython",
@@ -495,7 +495,7 @@
             "open_issues": 24,
             "owner": "pypa",
             "repo": "sampleproject",
-            "stars": 5235,
+            "stars": 5234,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -512,8 +512,8 @@
             "id": 103513062,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-13T02:04:42Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-13T16:40:32Z",
+            "open_issues": 29,
             "owner": "wemake-services",
             "repo": "wemake-django-template",
             "stars": 2279,
@@ -657,7 +657,7 @@
             "open_issues": 7,
             "owner": "jacebrowning",
             "repo": "template-python",
-            "stars": 668,
+            "stars": 667,
             "topics": [
               "cookiecutter",
               "hacktoberfest",
@@ -1083,11 +1083,11 @@
             "id": 5625464,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-11T21:01:35Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-13T23:04:01Z",
+            "open_issues": 50,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45183,
+            "stars": 45184,
             "topics": [
               "python",
               "shell"
@@ -1108,7 +1108,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-13T00:42:41Z",
-            "open_issues": 367,
+            "open_issues": 366,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
             "stars": 8410,
@@ -1134,11 +1134,11 @@
             "id": 92205085,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T01:08:10Z",
-            "open_issues": 564,
+            "last_commit": "2026-11-14T00:12:47Z",
+            "open_issues": 533,
             "owner": "aws",
             "repo": "aws-sam-cli",
-            "stars": 6744,
+            "stars": 6745,
             "topics": [
               "api-gateway",
               "aws",
@@ -1185,11 +1185,11 @@
             "id": 15730865,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T13:43:08Z",
-            "open_issues": 1188,
+            "last_commit": "2026-11-13T21:15:24Z",
+            "open_issues": 1191,
             "owner": "spack",
             "repo": "spack",
-            "stars": 5171,
+            "stars": 5172,
             "topics": [
               "build-tools",
               "hpc",
@@ -1251,7 +1251,7 @@
             "open_issues": 5,
             "owner": "google",
             "repo": "pytype",
-            "stars": 5034,
+            "stars": 5035,
             "topics": [
               "linter",
               "python",
@@ -1280,7 +1280,7 @@
             "open_issues": 471,
             "owner": "pyinvoke",
             "repo": "invoke",
-            "stars": 4782,
+            "stars": 4781,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:44.719Z"
@@ -1386,7 +1386,7 @@
             "open_issues": 57,
             "owner": "rubik",
             "repo": "radon",
-            "stars": 2043,
+            "stars": 2042,
             "topics": [
               "cli",
               "code-analysis",
@@ -1726,7 +1726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:37:11.547Z",
+    "last_updated": "2026-11-14T02:25:26.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List of projects using the pyproject.toml Python configuration file.",
