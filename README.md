@@ -45,7 +45,7 @@ Do you know of any other project not included here? Please
 ## Code Formatting
 
 * [YAPF](https://github.com/google/yapf#excluding-files-from-formatting-yapfignore-or-pyprojecttoml) ⭐ 13,985 | 🐛 440 | 🌐 Python | 📅 2026-11-06 - A formatter for Python files.
-* [autopep8](https://github.com/hhatto/autopep8/blob/master/README.rst#pyproject-toml) ⭐ 4,654 | 🐛 144 | 🌐 Python | 📅 2026-07-20 - A tool that automatically formats Python code to conform to the PEP 8 style guide.
+* [autopep8](https://github.com/hhatto/autopep8/blob/master/README.rst#pyproject-toml) ⭐ 4,654 | 🐛 145 | 🌐 Python | 📅 2026-07-20 - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 * [autoflake](https://github.com/PyCQA/autoflake) ⭐ 954 | 🐛 55 | 🌐 Python | 📅 2026-11-04 - Removes unused imports and unused variables as reported by pyflakes.
 * [Darker](https://github.com/akaihola/darker#customizing-darker-black-and-isort-behavior) ⭐ 686 | 🐛 47 | 🌐 Python | 📅 2025-10-22 - Apply black reformatting to Python files only in regions changed since a given commit.
 * [flake8-isort](https://github.com/gforcada/flake8-isort/commit/701995ab1f401e6f64c58ce2cb58756216d2e8a2) ⭐ 187 | 🐛 1 | 🌐 Python | 📅 2026-11-02 - flake8 plugin that integrates isort.
@@ -57,10 +57,10 @@ Do you know of any other project not included here? Please
 
 ## Code Analysis
 
-* [Pyright](https://github.com/microsoft/pyright/blob/1.1.200/docs/configuration.md#sample-pyprojecttoml-file) ⭐ 15,747 | 🐛 413 | 🌐 Python | 📅 2026-11-13 - Static type checker for Python.
-* [Vulture](https://github.com/jendrikseipp/vulture/blob/master/README.md#configuration) ⭐ 4,886 | 🐛 79 | 🌐 Python | 📅 2026-10-12 - Finds unused code in Python programs.
+* [Pyright](https://github.com/microsoft/pyright/blob/1.1.200/docs/configuration.md#sample-pyprojecttoml-file) ⭐ 15,748 | 🐛 413 | 🌐 Python | 📅 2026-11-13 - Static type checker for Python.
+* [Vulture](https://github.com/jendrikseipp/vulture/blob/master/README.md#configuration) ⭐ 4,895 | 🐛 79 | 🌐 Python | 📅 2026-10-12 - Finds unused code in Python programs.
 * [Refurb](https://github.com/dosisod/refurb) ⭐ 2,533 | 🐛 51 | 🌐 Python | 📅 2026-10-28 - A tool for refurbishing and modernizing Python codebases.
-* [deptry](https://github.com/fpgmaas/deptry) ⭐ 1,503 | 🐛 81 | 🌐 Python | 📅 2026-11-12 - A command line tool to check for issues with dependencies in a Python project, such as obsolete or missing dependencies.
+* [deptry](https://github.com/fpgmaas/deptry) ⭐ 1,504 | 🐛 81 | 🌐 Python | 📅 2026-11-14 - A command line tool to check for issues with dependencies in a Python project, such as obsolete or missing dependencies.
 * [Unimport](https://github.com/hakancelik96/unimport/blob/master/README.md#configuring-unimport) ⭐ 247 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - Detects unused python libraries.
 * [pytest-pylint](https://github.com/carsongee/pytest-pylint/pull/107) ⭐ 77 | 🐛 12 | 🌐 Python | 📅 2024-04-13 - A pytest plugin for running pylint against your codebase.
 * [Bandit](https://bandit.readthedocs.io/en/latest/config.html) - A tool designed to find common security issues in Python code.
@@ -80,7 +80,7 @@ Do you know of any other project not included here? Please
 
 ## Packaging & Project Management
 
-* [Maturin](https://github.com/PyO3/maturin/blob/main/README.md#python-metadata) ⭐ 5,875 | 🐛 56 | 🌐 Rust | 📅 2026-11-09 - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages.
+* [Maturin](https://github.com/PyO3/maturin/blob/main/README.md#python-metadata) ⭐ 5,875 | 🐛 58 | 🌐 Rust | 📅 2026-11-09 - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages.
 * [Pyflow](https://github.com/David-OConnor/pyflow) ⭐ 1,340 | 🐛 62 | 🌐 Rust | 📅 2026-03-21 - An installation and dependency system for Python.
 * [setuptools\_scm](https://github.com/pypa/setuptools_scm) ⭐ 956 | 🐛 24 | 🌐 Python | 📅 2026-11-11 - Handles managing your Python package versions in SCM metadata instead of declaring them as the version argument or in a SCM managed file.
 * [FawltyDeps](https://github.com/tweag/FawltyDeps) ⭐ 291 | 🐛 90 | 🌐 Python | 📅 2025-07-01 - Find undeclared and unused dependencies in your Python project. Verify that your declared dependencies (in `pyproject.toml` or elsewhere) match what you actually `import` in your code.
@@ -114,7 +114,7 @@ Python project templates or project generators supporting `pyproject.toml`.
 
 * [Poe the Poet](https://github.com/nat-n/poethepoet#define-tasks-in-your-pyprojecttoml) ⭐ 2,099 | 🐛 16 | 🌐 Python | 📅 2026-11-02 - A task runner that works well with Poetry.
 * [towncrier](https://github.com/twisted/towncrier) ⭐ 931 | 🐛 71 | 🌐 Python | 📅 2026-11-03 - A utility to produce useful, summarised news files for your project.
-* [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv/pull/117) ⭐ 638 | 🐛 34 | 🌐 Shell | 📅 2026-02-07 - ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories.
+* [zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv/pull/117) ⭐ 638 | 🐛 33 | 🌐 Shell | 📅 2026-02-07 - ZSH plugin to automatically switch python virtualenvs and Pipenvs as you move between directories.
 * [Autohooks](https://github.com/greenbone/autohooks/blob/master/README.md#1-choosing-an-autohooks-mode) ⭐ 204 | 🐛 2 | 🌐 Python | 📅 2026-11-10 - Library for managing git hooks.
 * [Python License Checker](https://github.com/dhatim/python-license-check/pull/32) ⭐ 184 | 🐛 29 | 🌐 Python | 📅 2026-09-18 - Check python packages from requirement.txt/pyproject.toml and report issues.
 * [Poetrify](https://github.com/kk6/poetrify) ⚠️ Archived - Convert a Pipfile (or requirements.txt) to pyproject.toml for Poetry.
@@ -152,27 +152,27 @@ Python Enhancement Proposals (PEPs) still under consideration related to pyproje
 Some project are still considering the adoption of the `pyproject.toml` file.
 These entries link directly to the project discussion.
 
-* [pyenv](https://github.com/pyenv/pyenv/issues/1233) ⭐ 45,184 | 🐛 50 | 🌐 Shell | 📅 2026-11-13 - Simple Python version management.
-* [readthedocs.org](https://github.com/readthedocs/readthedocs.org/issues/7065) ⭐ 8,410 | 🐛 366 | 🌐 Python | 📅 2026-11-13 - Read the Docs hosts documentation for the open source community.
-* [AWS SAM](https://github.com/awslabs/aws-sam-cli/issues/1366) ⭐ 6,745 | 🐛 533 | 🌐 Python | 📅 2026-11-14 - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM.
+* [pyenv](https://github.com/pyenv/pyenv/issues/1233) ⭐ 45,183 | 🐛 50 | 🌐 Shell | 📅 2026-11-14 - Simple Python version management.
+* [readthedocs.org](https://github.com/readthedocs/readthedocs.org/issues/7065) ⭐ 8,411 | 🐛 366 | 🌐 Python | 📅 2026-11-13 - Read the Docs hosts documentation for the open source community.
+* [AWS SAM](https://github.com/awslabs/aws-sam-cli/issues/1366) ⭐ 6,745 | 🐛 534 | 🌐 Python | 📅 2026-11-14 - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM.
 * [PyOxidizer](https://github.com/indygreg/PyOxidizer/issues/93) ⭐ 6,158 | 🐛 362 | 🌐 Rust | 📅 2024-12-24 - A modern Python application packaging and distribution tool.
-* [Spack](https://github.com/spack/spack/issues/6629) ⭐ 5,172 | 🐛 1,191 | 🌐 Python | 📅 2026-11-13 - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+* [Spack](https://github.com/spack/spack/issues/6629) ⭐ 5,172 | 🐛 1,192 | 🌐 Python | 📅 2026-11-13 - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 * [pycodestyle](https://github.com/PyCQA/pycodestyle/issues/813) ⭐ 5,165 | 🐛 105 | 🌐 Python | 📅 2026-11-04 - A tool to check your Python code against some of the style conventions in PEP 8.
 * [pytype](https://github.com/google/pytype/issues/645) ⚠️ Archived - A static type analyzer for Python code.
 * [Invoke](https://github.com/pyinvoke/invoke/issues/537) ⭐ 4,781 | 🐛 471 | 🌐 Python | 📅 2026-04-07 - Library for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
-* [Alembic](https://github.com/sqlalchemy/alembic/issues/708) ⭐ 4,476 | 🐛 117 | 🌐 Python | 📅 2026-10-30 - A database migrations tool for SQLAlchemy.
-* [flake8](https://github.com/PyCQA/flake8/issues/234) ⭐ 3,835 | 🐛 24 | 🌐 Python | 📅 2026-11-04 - A python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
-* [prospector](https://github.com/PyCQA/prospector/issues/376) ⭐ 2,085 | 🐛 31 | 🌐 Python | 📅 2026-11-09 - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
-* [Radon](https://github.com/rubik/radon/issues/220) ⭐ 2,042 | 🐛 57 | 🌐 Python | 📅 2024-10-20 - A Python tool that computes various metrics from the source code.
+* [Alembic](https://github.com/sqlalchemy/alembic/issues/708) ⭐ 4,477 | 🐛 117 | 🌐 Python | 📅 2026-10-30 - A database migrations tool for SQLAlchemy.
+* [flake8](https://github.com/PyCQA/flake8/issues/234) ⭐ 3,836 | 🐛 24 | 🌐 Python | 📅 2026-11-04 - A python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
+* [prospector](https://github.com/PyCQA/prospector/issues/376) ⭐ 2,085 | 🐛 32 | 🌐 Python | 📅 2026-11-09 - A tool to analyse Python code and output information about errors, potential problems, convention violations and complexity.
+* [Radon](https://github.com/rubik/radon/issues/220) ⭐ 2,043 | 🐛 57 | 🌐 Python | 📅 2024-10-20 - A Python tool that computes various metrics from the source code.
 * [bumpversion](https://github.com/peritus/bumpversion/issues/192) ⭐ 1,518 | 🐛 93 | 🌐 Python | 📅 2023-07-14 - Version-bump your software with a single command.
   * [bump2version](https://github.com/c4urself/bump2version/issues/42) ⭐ 1,120 | 🐛 115 | 🌐 Python | 📅 2025-02-20 - An interim fork with the intent to merge back to the original project.
 * [pytest-benchmark](https://github.com/ionelmc/pytest-benchmark/issues/26) ⭐ 1,459 | 🐛 127 | 🌐 Python | 📅 2026-11-01 - A pytest fixture for benchmarking code.
 * [Pylama](https://github.com/klen/pylama/issues/171) ⭐ 1,048 | 🐛 74 | 🌐 Python | 📅 2026-06-22 - Code audit tool for Python and JavaScript. Pylama wraps these tools: pycodestyle, pydocstyle, PyFlakes, Mccabe, Pylint, Radon, gjslint, eradicate, mypy.
 * [gitlint](https://github.com/jorisroovers/gitlint/issues/115) ⭐ 974 | 🐛 63 | 🌐 Python | 📅 2024-07-11 - Linting for your git commit messages.
 * [mach-nix](https://github.com/DavHau/mach-nix/issues/14) ⭐ 885 | 🐛 214 | 🌐 Python | 📅 2024-05-20 - Create highly reproducible python environments.
-* [nose2](https://github.com/nose-devs/nose2/issues/452) ⭐ 830 | 🐛 47 | 🌐 Python | 📅 2026-11-11 - The successor to nose. Its purpose is to extend unittest to make testing nicer and easier to understand.
-* [pypyr](https://github.com/pypyr/pypyr/discussions/232) ⭐ 647 | 🐛 16 | 🌐 Python | 📅 2023-12-19 - Task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
-* [pyup](https://github.com/pyupio/pyup/issues/332) ⭐ 468 | 🐛 76 | 🌐 Python | 📅 2021-06-24 - tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
+* [nose2](https://github.com/nose-devs/nose2/issues/452) ⭐ 831 | 🐛 47 | 🌐 Python | 📅 2026-11-11 - The successor to nose. Its purpose is to extend unittest to make testing nicer and easier to understand.
+* [pypyr](https://github.com/pypyr/pypyr/discussions/232) ⭐ 648 | 🐛 16 | 🌐 Python | 📅 2023-12-19 - Task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.
+* [pyup](https://github.com/pyupio/pyup/issues/332) ⭐ 469 | 🐛 76 | 🌐 Python | 📅 2021-06-24 - tool to update your project's dependencies on GitHub. Runs on pyup.io, comes with a command line interface.
 * [zest.releaser](https://github.com/zestsoftware/zest.releaser/issues/295) ⭐ 207 | 🐛 25 | 🌐 Python | 📅 2026-08-11 - Python software releasing made easy and repeatable.
 * [Dependency Parser](https://github.com/pyupio/dparse/issues/36) ⭐ 65 | 🐛 20 | 🌐 Python | 📅 2024-11-25 - A parser for Python dependency files.
 * [Briefcase Bootstrap Template](https://github.com/beeware/briefcase-template/pull/16) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - A template for starting a Python app that will be deployed using briefcase.
@@ -185,4 +185,4 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
